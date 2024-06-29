@@ -1,43 +1,50 @@
 
 #Example: Large parts of Africa and south east Asia
 tropical = {
-	1 2 3
+
 }
+
 arid = {
-	4 5 6
+
 }
+
 arctic = {
+
 }
+
 
 #Example: Most of Europe north of med.
 mild_winter = {
-	4
+
 }
 
-#Example: Inland Europe & Scandinavia
+
+#Example: Inland Europe & Scandinavian
 normal_winter = {
-	5
+
 }
+
 
 #Example: Russia & Lappland
 severe_winter = {
-	6
+
 }
 
 impassable = {
-	9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+	#Work in Progress
+	4971 4972 4973 4974 4975 4976 4977 4978 4979 4980 4981 4982 4983 4984 4985 4986 4987 4988 4989 4990 4991 4992 4993 4994 4995 4996 4997 4998 4999
 }
 
 mild_monsoon = {
 
 }
 
-normal_monsoon = {
+normal_monsoon={
 
 }
 
-severe_monsoon = {
+severe_monsoon={
 
 }
 
-equator_y_on_province_image = 656 #what
+equator_y_on_province_image = 656
