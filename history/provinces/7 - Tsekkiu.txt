@@ -1,4 +1,4 @@
-# 6 - Akko
+# 7 - Tsekkiu
 
 owner = FRA
 controller = FRA
@@ -17,7 +17,7 @@ base_manpower = 1
 trade_goods = grain
 
 is_city = yes
-fort_15th = yes
+fort_15th = no
 
 discovered_by = western
 discovered_by = eastern
