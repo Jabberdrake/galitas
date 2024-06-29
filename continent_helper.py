@@ -25,9 +25,9 @@ continent_map = {
 }
 
 # [Logic] where the magic happens
-list_of_lists = {}
+provlist_mapping = {}
 for continent in continent_map.values():
-    list_of_lists.update({continent: []})
+    provlist_mapping.update({continent: []})
 
 i = -1
 last_province = 0
@@ -47,13 +47,13 @@ with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
             print("debug: we are in " + line_arr[4])
             continent_str = str(df.at[provID-1, 'continent'])
             continent = continent_map[continent_str]
-            prov_list = list_of_lists[continent]
+            prov_list = provlist_mapping[continent]
             prov_list.append(provID)
 
 with open('map/continent.txt', 'w', encoding='ISO-8859-1') as result:
-    for continent in list_of_lists:
+    for continent in provlist_mapping:
         statement = continent + " = {\n"
-        prov_list = list_of_lists[continent]
+        prov_list = provlist_mapping[continent]
         provs_string = ' '.join([str(prov) for prov in prov_list])
         statement = statement + "\t" + provs_string + "\n"
         statement = statement + "}" + "\n\n"
