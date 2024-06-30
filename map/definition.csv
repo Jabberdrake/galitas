@@ -24,7 +24,7 @@ province;red;green;blue;x;x
 23;177;153;14;Bonjehja;x
 24;118;57;3;Palja;x
 25;177;89;11;Milijekne;x
-26;222;122;14;Lahjakna;x
+26;222;112;14;Lahjakna;x
 27;136;89;14;Umme;x
 28;179;115;14;Palé;x
 29;168;81;6;Hakassa;x
@@ -48,7 +48,7 @@ province;red;green;blue;x;x
 47;16;116;47;Ulinos;x
 48;64;100;156;Mores;x
 49;78;122;191;Nores;x
-50;107;148;124;Kayomos;x
+50;107;148;214;Kayomos;x
 51;125;163;226;Gejya;x
 52;228;179;15;Arcanomyr;x
 53;32;43;179;Koi'yos;x
@@ -66,7 +66,7 @@ province;red;green;blue;x;x
 65;87;226;226;Lodiñol;x
 66;112;249;249;Ñumedal;x
 67;51;197;163;Cominol;x
-68;70;209;117;Leñadiol;x
+68;70;209;177;Leñadiol;x
 69;51;197;96;Uyendiol;x
 70;70;203;111;Ominol;x
 71;156;243;230;Amioli Aman;x
@@ -80,16 +80,48 @@ province;red;green;blue;x;x
 79;143;156;232;Halwa;x
 80;195;151;5;Viónar;x
 81;220;199;85;Jel;x
-82;197;198;83;Neia;x
-83;209;197;70;Missen;x
+82;197;180;83;Neia;x
+83;209;187;70;Missen;x
 84;168;156;90;Miyen;x
 85;18;29;122;Limmonic Sea;x
 86;10;14;46;Windsinger's Throat;x
 87;7;12;52;Allolic Bight;x
-88;1;5;25;Oñanin Sea;x
+88;1;5;35;Oñanin Sea;x
 89;10;15;58;Far Allolic Sea;x
 90;9;18;93;Allolic Sea;x
 91;6;10;41;Cerisolan Tare;x
+92;166;92;116;Parmaloletto;x
+93;143;57;141;Minia;x
+94;87;30;86;Moio;x
+95;107;41;106;Minetta;x
+96;134;59;133;Oro;x
+97;140;210;217;Ikao;x
+98;126;190;197;Auwetteh;x
+99;94;170;178;Aiua;x
+100;82;19;69;Okoletta;x
+101;118;21;98;Serra lossa;x
+102;137;64;122;Tessia;x
+103;81;10;67;Hetchetta;x
+104;240;178;193;Berralossa Happe;x
+105;222;155;170;Preza;x
+106;208;133;151;Parmaleddo;x
+107;167;63;57;Deneha Dollidda;x
+108;139;70;66;Dendeleppa;x
+109;151;86;83;Dall Harma;x
+110;173;79;74;Mikko Koleddo;x
+111;131;54;40;Mahekko;x
+112;145;55;50;Haleppa;x
+113;133;57;27;Hateppo;x
+114;102;33;6;Mera Harepponna;x
+115;177;38;7;Keddahabra Gairanna;x
+116;140;36;70;Bodia;x
+117;106;32;56;Ikko;x
+118;116;34;61;Padia;x
+119;68;16;33;Pavedda;x
+120;48;6;20;Falagga;x
+121;40;6;17;Kobolaga;x
+122;86;29;48;Pakka;x
+123;93;39;56;Limekkeha;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x
