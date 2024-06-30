@@ -1,0 +1,4 @@
+# 88 - Oñanin Sea
+
+discovered_by = western
+discovered_by = eastern

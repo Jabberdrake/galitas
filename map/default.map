@@ -3,13 +3,14 @@ height = 2048
 
 max_provinces = 5000
 sea_starts = {
-	26 27 28 29 30 31 32 33 34 35 36
+	85 86 87 88 89 90 91
 }
 
 only_used_for_random = {
 }
 
 lakes = {
+	4989 4990 4991 4992 4993 4994 4995 4996 4997 4998 4999
 }
 
 force_coastal = {

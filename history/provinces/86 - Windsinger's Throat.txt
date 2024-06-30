@@ -1,0 +1,4 @@
+# 86 - Windsinger's Throat
+
+discovered_by = western
+discovered_by = eastern

@@ -1,0 +1,4 @@
+# 87 - Allolic Bight
+
+discovered_by = western
+discovered_by = eastern
