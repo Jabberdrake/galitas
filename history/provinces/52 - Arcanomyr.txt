@@ -4,7 +4,7 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = ableol
+culture = leantiri
 religion = catholic
 capital = ""
 
