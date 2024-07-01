@@ -1,10 +1,10 @@
 # 79 - Halwa
 
-owner = nan
-controller = nan
-add_core = nan
+owner = FRA
+controller = FRA
+add_core = FRA
 
-culture = cosmopolitan_french
+culture = lelendol
 religion = catholic
 capital = ""
 

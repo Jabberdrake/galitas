@@ -1,10 +1,10 @@
 # 38 - Kjenkne
 
-owner = nan
-controller = nan
-add_core = nan
+owner = FRA
+controller = FRA
+add_core = FRA
 
-culture = cosmopolitan_french
+culture = cerisol
 religion = catholic
 capital = ""
 
