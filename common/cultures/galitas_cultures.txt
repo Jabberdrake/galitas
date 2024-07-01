@@ -15,3 +15,62 @@ parmaletta = {
 		}	
 	}
 }
+
+alloliol = {
+	lelendol = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3
+			"Loilend" "Komal" "Kiokal"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Lanlentiola" "Padiñe" "Miñema"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Porediñola" "Galetola" "Bohedañol"
+		}
+	}
+	abléol = {
+		male_names = {
+			MaleName4 MaleName5 MaleName6
+			"Kerde" "Mergel" "Hodelel"
+		}
+		female_names = {
+			FemaleName4 FemaleName5 FemaleName6
+			"Keñel" "Lobañel" "Moñel"
+		}
+		dynasty_names = {
+			DynastyName4 DynastyName5 DynastyName6
+			"Payantaaleta" "Loometeela" "Kobeñalol"
+		}
+	}
+	onañol = {
+		male_names = {
+			MaleName4 MaleName5 MaleName6
+			"Loken" "Makel" "Heñel"
+		}
+		female_names = {
+			FemaleName4 FemaleName5 FemaleName6
+			"Koje" "Hena" "Loke"
+		}
+		dynasty_names = {
+			DynastyName4 DynastyName5 DynastyName6
+			"Abekaje" "Makanel" "Lokentel"
+            }
+	}
+	cérisol = {
+		male_names = {
+			MaleName4 MaleName5 MaleName6
+			"Lehjen" "Maljeh" "Ékhel"
+		}
+		female_names = {
+			FemaleName4 FemaleName5 FemaleName6
+			"lakhom" "Kjonnom" "Pojkon"
+		}
+		dynasty_names = {
+			DynastyName4 DynastyName5 DynastyName6
+			"Cerjakhomména" "Kéjhonna" "Lokjékenom"
+		}
+	}
+}
