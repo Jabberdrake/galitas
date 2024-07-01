@@ -31,7 +31,7 @@ alloliol = {
 			"Porediñola" "Galetola" "Bohedañol"
 		}
 	}
-	abléol = {
+	ableol = {
 		male_names = {
 			MaleName4 MaleName5 MaleName6
 			"Kerde" "Mergel" "Hodelel"
@@ -45,7 +45,7 @@ alloliol = {
 			"Payantaaleta" "Loometeela" "Kobeñalol"
 		}
 	}
-	onañol = {
+	onanol = {
 		male_names = {
 			MaleName4 MaleName5 MaleName6
 			"Loken" "Makel" "Heñel"
@@ -59,7 +59,7 @@ alloliol = {
 			"Abekaje" "Makanel" "Lokentel"
             }
 	}
-	cérisol = {
+	cerisol = {
 		male_names = {
 			MaleName4 MaleName5 MaleName6
 			"Lehjen" "Maljeh" "Ékhel"
