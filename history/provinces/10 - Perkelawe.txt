@@ -4,7 +4,7 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = cosmopolitan_french
+culture = limunii
 religion = catholic
 capital = ""
 
