@@ -1,0 +1,23 @@
+# 160 - Motcha
+
+owner = nan
+controller = nan
+add_core = nan
+
+culture = maraline
+religion = catholic
+capital = ""
+
+hre = no
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = grain
+
+is_city = yes
+fort_15th = no
+
+discovered_by = western
+discovered_by = eastern
