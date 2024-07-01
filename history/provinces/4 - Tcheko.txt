@@ -4,7 +4,7 @@ owner = FRA
 controller = FRA
 add_core = FRA
 
-culture = cosmopolitan_french
+culture = prozoan
 religion = catholic
 capital = ""
 
