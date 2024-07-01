@@ -13,6 +13,48 @@ parmaletta = {
 			"Halino" "Beheka" "Mayedda"
 		}	
 	}
+	paraikellettino = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	parmakaropino = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	rastagan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
 }
 
 alloliol = {
@@ -163,6 +205,85 @@ essonic = {
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
 			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+}
+
+draconic = {
+	drunnan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Pewen" "Pahéssann" "Énannac"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Luwéssa" "Kasséla" "Ulèmanna"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+	drosvagan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Pewen" "Pahéssann" "Énannac"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Luwéssa" "Kasséla" "Ulèmanna"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+	laghvnalan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Pewen" "Pahéssann" "Énannac"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Luwéssa" "Kasséla" "Ulèmanna"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+}
+
+milostran = {
+	tukan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+}
+
+tchutchin = {
+	maraline = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
 		}	
 	}
 }
