@@ -1,8 +1,8 @@
 # 145 - Jikke
 
-owner = nan
-controller = nan
-add_core = nan
+owner = SOR
+controller = SOR
+add_core = SOR
 
 culture = laghvnalan
 religion = catholic

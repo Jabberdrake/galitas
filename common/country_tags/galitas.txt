@@ -7,3 +7,5 @@ NAT = "countries/Natives.txt"
 
 #wah
 FRA = "countries/France.txt"
+RAS = "countries/Rastago.txt"
+SOR = "countries/Sorognava.txt"
