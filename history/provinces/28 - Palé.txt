@@ -1,8 +1,8 @@
 # 28 - Palé
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = nan
+controller = nan
+add_core = nan
 
 culture = cerisol
 religion = catholic

@@ -1,8 +1,8 @@
 # 53 - Koi'yos
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = nan
+controller = nan
+add_core = nan
 
 culture = ableol
 religion = catholic

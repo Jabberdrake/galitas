@@ -1,10 +1,10 @@
 # 56 - Pelos
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = nan
+controller = nan
+add_core = nan
 
-culture = lelendol
+culture = ableol
 religion = catholic
 capital = ""
 
