@@ -1,8 +1,8 @@
 # 134 - Soje
 
-owner = nan
-controller = nan
-add_core = nan
+owner = SOJ
+controller = SOJ
+add_core = SOJ
 
 culture = drosvagan
 religion = catholic

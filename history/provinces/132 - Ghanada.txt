@@ -1,8 +1,8 @@
 # 132 - Ghanada
 
-owner = nan
-controller = nan
-add_core = nan
+owner = DEL
+controller = DEL
+add_core = DEL
 
 culture = drosvagan
 religion = catholic
