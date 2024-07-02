@@ -1,8 +1,8 @@
 # 163 - Laghdaga
 
-owner = nan
-controller = nan
-add_core = nan
+owner = LEJ
+controller = LEJ
+add_core = LEJ
 
 culture = laghvnalan
 religion = catholic
