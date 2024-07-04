@@ -5,13 +5,15 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-#wah
+# Placeholder
 FRA = "countries/France.txt"
-RAS = "countries/Rastago.txt"
-SOR = "countries/Sorognava.txt"
-GHA = "countries/Gharsha.txt"
-DEL = "countries/Delnaghda.txt"
-POL = "countries/Poliettjo.txt"
-SOJ = "countries/Soje.txt"
-LEJ = "countries/Leja.txt"
-TUK = "countries/Tuka.txt"
+
+# Upper Spine (Uxx)
+U00 = "countries/Rastago.txt"
+U01 = "countries/Leja.txt"
+U02 = "countries/Sorognava.txt"
+U03 = "countries/Gharsha.txt"
+U04 = "countries/Soje.txt"
+U05 = "countries/Delnaghda.txt"
+U06 = "countries/Poliettjo.txt"
+U07 = "countries/Tuka.txt"

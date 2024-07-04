@@ -1,8 +1,8 @@
 # 133 - Oragna Geha
 
-owner = SOJ
-controller = SOJ
-add_core = SOJ
+owner = U04
+controller = U04
+add_core = U04
 
 culture = drosvagan
 religion = catholic

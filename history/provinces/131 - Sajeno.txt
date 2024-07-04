@@ -1,8 +1,8 @@
 # 131 - Sajeno
 
-owner = DEL
-controller = DEL
-add_core = DEL
+owner = U05
+controller = U05
+add_core = U05
 
 culture = drosvagan
 religion = catholic

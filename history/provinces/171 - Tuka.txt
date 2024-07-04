@@ -1,8 +1,8 @@
 # 171 - Tuka
 
-owner = TUK
-controller = TUK
-add_core = TUK
+owner = U07
+controller = U07
+add_core = U07
 
 culture = tukan
 religion = catholic

@@ -1,8 +1,8 @@
 # 127 - Kjaleddje
 
-owner = POL
-controller = POL
-add_core = POL
+owner = U06
+controller = U06
+add_core = U06
 
 culture = parmakaropino
 religion = catholic

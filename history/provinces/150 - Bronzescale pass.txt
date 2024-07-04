@@ -1,10 +1,10 @@
 # 150 - Bronzescale pass
 
-owner = RAS
-controller = RAS
-add_core = RAS
+owner = U00
+controller = U00
+add_core = U00
 
-culture = prozoan
+culture = drunnan
 religion = catholic
 capital = ""
 

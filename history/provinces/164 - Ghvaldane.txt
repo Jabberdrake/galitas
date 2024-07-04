@@ -1,8 +1,8 @@
 # 164 - Ghvaldane
 
-owner = LEJ
-controller = LEJ
-add_core = LEJ
+owner = U01
+controller = U01
+add_core = U01
 
 culture = laghvnalan
 religion = catholic

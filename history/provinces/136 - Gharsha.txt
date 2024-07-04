@@ -1,8 +1,8 @@
 # 136 - Gharsha
 
-owner = GHA
-controller = GHA
-add_core = GHA
+owner = U03
+controller = U03
+add_core = U03
 
 culture = drosvagan
 religion = catholic
