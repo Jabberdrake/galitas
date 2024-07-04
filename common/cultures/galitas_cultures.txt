@@ -287,3 +287,34 @@ tchutchin = {
 		}	
 	}
 }
+
+mirmani = {
+	lowmiri = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Pewen" "Pahéssann" "Énannac"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Luwéssa" "Kasséla" "Ulèmanna"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+	highmiri = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Pewen" "Pahéssann" "Énannac"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Luwéssa" "Kasséla" "Ulèmanna"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Émannujè salé" "Assnallè salé" "Massèla salé"
+		}	
+	}
+}
