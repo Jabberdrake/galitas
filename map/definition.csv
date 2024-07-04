@@ -142,19 +142,19 @@ province;red;green;blue;x;x
 141;106;9;39;Sorognava;x
 142;97;5;34;Lajoghna Je Kulga;x
 143;117;6;41;Mikke Kulga;x
-144;128;18;52;Mejikka's pass;x
+144;128;18;52;Mejikka's Pass;x
 145;148;35;70;Jikke;x
-146;117;37;62;dragonwall;x
+146;117;37;62;Dragonwall;x
 147;111;35;59;Sajakneddo;x
 148;64;2;40;Mjarno;x
 149;87;2;55;Mjarneletta;x
-150;78;14;54;Bronzescale pass;x
+150;78;14;54;Bronzescale Pass;x
 151;78;3;50;Mijuhe;x
 152;99;18;69;Rastago;x
 153;85;19;60;Meghavo;x
 154;99;26;72;Tchutchetta;x
 155;195;103;5;Gomtchar;x
-156;217;133;43;Gomtchar country;x
+156;217;133;43;Gomtchar Country;x
 157;195;71;19;Mugtin;x
 158;217;94;43;Metchuttgurta;x
 159;157;50;19;Telon Motchen;x
@@ -171,10 +171,22 @@ province;red;green;blue;x;x
 170;190;10;80;Pankrunk;x
 171;144;9;62;Tuka;x
 172;235;210;61;Saghvono;x
-173;209;186;49;Kobold's pass;x
+173;209;186;49;Kobold's Pass;x
 174;196;163;46;Jaghavemento;x
 175;203;168;45;Ghaventa Jakol;x
 176;190;156;37;Rastgha Jakol;x
+177;183;160;73;Mikanir;x
+178;131;109;25;Shutun;x
+179;119;101;31;Quotonir;x
+180;116;60;20;Mihoh;x
+181;146;77;26;Puromir;x
+182;131;53;14;Miruwah;x
+183;177;80;33;Mimir;x
+184;190;158;80;Kiendyni;x
+185;178;142;55;Myachien;x
+186;217;222;142;Kiehena;x
+187;192;178;102;Myamyoki;x
+188;189;179;179;Karopan Spine Wastes;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x

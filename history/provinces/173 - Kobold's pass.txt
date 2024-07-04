@@ -1,4 +1,4 @@
-# 173 - Kobold's pass
+# 173 - Kobold's Pass
 
 owner = nan
 controller = nan

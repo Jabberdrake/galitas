@@ -1,4 +1,4 @@
-# 156 - Gomtchar country
+# 156 - Gomtchar Country
 
 owner = nan
 controller = nan

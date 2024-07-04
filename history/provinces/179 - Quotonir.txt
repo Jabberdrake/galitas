@@ -1,10 +1,10 @@
-# 150 - Bronzescale Pass
+# 179 - Quotonir
 
-owner = U00
-controller = U00
-add_core = U00
+owner = nan
+controller = nan
+add_core = nan
 
-culture = drunnan
+culture = lowmiri
 religion = catholic
 capital = ""
 

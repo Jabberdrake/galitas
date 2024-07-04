@@ -1,0 +1,4 @@
+# 188 - Karopan Spine Wastes
+
+discovered_by = western
+discovered_by = eastern
