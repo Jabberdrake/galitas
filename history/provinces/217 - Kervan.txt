@@ -1,8 +1,8 @@
 # 217 - Kervan
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U14
+controller = U14
+add_core = U14
 
 culture = drunnan
 religion = catholic

@@ -1,8 +1,8 @@
 # 220 - Mirev
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U15
+controller = U15
+add_core = U15
 
 culture = drunnan
 religion = catholic

@@ -1,8 +1,8 @@
 # 246 - Katichi
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U08
+controller = U08
+add_core = U08
 
 culture = tukan
 religion = catholic

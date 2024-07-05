@@ -1,8 +1,8 @@
 # 198 - Technan
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U10
+controller = U10
+add_core = U10
 
 culture = drunnan
 religion = catholic

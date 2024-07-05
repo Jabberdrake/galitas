@@ -1,8 +1,8 @@
 # 223 - Meivan
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U16
+controller = U16
+add_core = U16
 
 culture = drunnan
 religion = catholic

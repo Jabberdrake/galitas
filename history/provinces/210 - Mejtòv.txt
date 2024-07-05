@@ -1,8 +1,8 @@
 # 210 - Mejtòv
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U12
+controller = U12
+add_core = U12
 
 culture = drunnan
 religion = catholic
