@@ -193,7 +193,7 @@ province;red;green;blue;x;x
 192;44;26;76;Terbann;x
 193;39;17;76;Kìldann;x
 194;54;29;98;Polan;x
-195;"100;30;136";Noline;x
+195;100;30;136;Noline;x
 196;59;15;81;Orjann;x
 197;67;6;98;Soligan;x
 198;73;13;103;Technan;x
@@ -205,7 +205,7 @@ province;red;green;blue;x;x
 204;152;32;121;Kevaan;x
 205;174;58;144;Technaan;x
 206;190;61;157;Jajvann;x
-207;144;23;90;Mekval;x
+207;114;23;90;Mekval;x
 208;172;29;29;Tòshvann;x
 209;206;38;38;Voltònak;x
 210;155;23;23;Mejtòv;x
@@ -229,8 +229,42 @@ province;red;green;blue;x;x
 228;190;172;23;Dragonsneck;x
 229;228;209;56;Oom's Pass;x
 230;136;122;122;Black Mountains;x
-231;134;117;136;Split Mountains;x
+231;124;117;136;Split Mountains;x
 232;136;111;129;Lesser Hook;x
+233;212;127;37;Dotchet Gurun;x
+234;190;107;19;Pirkcha;x
+235;233;150;60;Miahamam;x
+236;174;95;11;Viritchekur's Pass;x
+237;174;37;26;Tchiahappna;x
+238;146;38;7;Chiahaphin;x
+239;136;33;3;Dakotich;x
+240;103;14;6;Mijorn;x
+241;117;7;7;Miahaphin;x
+242;81;2;2;Atcham's Rest;x
+243;95;3;3;Druana Tulta;x
+244;145;10;20;Tilamaritch;x
+245;184;18;18;Tchotrim;x
+246;212;29;29;Katichi;x
+247;190;21;21;Lichurim;x
+248;136;7;16;Tchutchirm;x
+249;116;5;13;Panatult;x
+250;125;5;14;Tiltris;x
+251;119;3;37;Etchedalm;x
+252;92;1;42;Tultaph;x
+253;103;0;30;Doshinitchin;x
+254;103;0;61;the Oombalk;x
+255;81;25;58;Mintitri;x
+256;92;19;63;Tultaph;x
+257;76;2;56;Telontetch;x
+258;145;7;109;Qqum;x
+259;54;5;41;Pelon Tohtchen;x
+260;76;9;59;Viostras;x
+261;109;7;67;Nanntichi;x
+262;136;7;63;Betsha;x
+263;21;49;76;Tchot Kati;x
+264;35;73;109;Maritcha;x
+265;44;80;114;Lilotsh;x
+266;55;91;125;Pana Tultrann;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x
