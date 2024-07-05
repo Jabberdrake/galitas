@@ -1,0 +1,4 @@
+# 232 - Lesser Hook
+
+discovered_by = western
+discovered_by = eastern
