@@ -1,8 +1,8 @@
 # 166 - Miku's Pass
 
-owner = U07
-controller = U07
-add_core = U07
+owner = U08
+controller = U08
+add_core = U08
 
 culture = laghvnalan
 religion = catholic
