@@ -1,8 +1,8 @@
 # 162 - Telon Tchegur
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U21
+controller = U21
+add_core = U21
 
 culture = maraline
 religion = catholic

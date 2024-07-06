@@ -1,8 +1,8 @@
 # 161 - Turtchen
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U20
+controller = U20
+add_core = U20
 
 culture = maraline
 religion = catholic

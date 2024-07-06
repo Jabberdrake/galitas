@@ -1,8 +1,8 @@
 # 157 - Mugtin
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U18
+controller = U18
+add_core = U18
 
 culture = maraline
 religion = catholic
