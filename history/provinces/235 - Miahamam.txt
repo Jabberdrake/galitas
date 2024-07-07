@@ -1,8 +1,8 @@
 # 235 - Miahamam
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U22
+controller = U22
+add_core = U22
 
 culture = tchotratchii
 religion = catholic

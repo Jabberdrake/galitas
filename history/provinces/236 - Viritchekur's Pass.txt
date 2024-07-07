@@ -1,8 +1,8 @@
 # 236 - Viritchekur's Pass
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U22
+controller = U22
+add_core = U22
 
 culture = tchotratchii
 religion = catholic
