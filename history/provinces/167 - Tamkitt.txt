@@ -1,8 +1,8 @@
 # 167 - Tamkitt
 
-owner = U08
-controller = U08
-add_core = U08
+owner = U07
+controller = U07
+add_core = U07
 
 culture = tukan
 religion = catholic

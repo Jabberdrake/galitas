@@ -1,8 +1,8 @@
-# 162 - Telon Tchegur
+# 160 - Atcha
 
-owner = U21
-controller = U21
-add_core = U21
+owner = U19
+controller = U19
+add_core = U19
 
 culture = maraline
 religion = catholic
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = cloves
+trade_goods = copper
 
 is_city = yes
 fort_15th = no
