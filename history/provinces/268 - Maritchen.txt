@@ -4,7 +4,7 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = tukan
+culture = motchatchii
 religion = catholic
 capital = ""
 

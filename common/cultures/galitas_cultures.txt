@@ -286,6 +286,48 @@ tchutchin = {
 			"Halino" "Beheka" "Mayedda"
 		}	
 	}
+	motchatchii = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	gurtunchii = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	tchotratchii = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
 }
 
 mirmani = {

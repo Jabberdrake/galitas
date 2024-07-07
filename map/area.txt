@@ -161,6 +161,24 @@ further_tchutcha = {
 tchott_kathi = { 
 	263 264 265 266
 }
+tchunatcha = { 
+	267 268 269
+}
+motchagocha = { 
+	270 271 272 273
+}
+gurchatri = { 
+	274 275 276 277
+}
+dotchitrun = { 
+	278 279 280 281
+}
+thutcharanna = { 
+	282 283
+}
+tchutchin Spine = { 
+	284
+}
 
 ########################################
 # Base Game							   #
