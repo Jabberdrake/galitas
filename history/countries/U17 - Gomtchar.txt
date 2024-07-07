@@ -3,7 +3,7 @@ add_government_reform = feudal_france_reform
 primary_culture = maraline
 religion = catholic
 technology_group = western
-capital = 115 # Gomtchar
+capital = 155 # Gomtchar
 national_focus = DIP
 
 change_estate_land_share = {
