@@ -1,8 +1,8 @@
 # 94 - Moio
 
-owner = U24
-controller = U24
-add_core = U24
+owner = K00
+controller = K00
+add_core = K00
 
 culture = prozoan
 religion = catholic
