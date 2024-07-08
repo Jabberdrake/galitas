@@ -1,8 +1,8 @@
 # 96 - Oro
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U24
+controller = U24
+add_core = U24
 
 culture = prozoan
 religion = catholic
