@@ -1,8 +1,8 @@
 # 108 - Dendeleppa
 
-owner = nan
-controller = nan
-add_core = nan
+owner = K01
+controller = K01
+add_core = K01
 
 culture = paraikellettino
 religion = catholic
