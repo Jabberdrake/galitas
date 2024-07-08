@@ -1,8 +1,8 @@
 # 6 - Akko
 
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = K00
+controller = K00
+add_core = K00
 
 culture = prozoan
 religion = catholic
