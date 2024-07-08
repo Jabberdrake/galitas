@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 290 - Prozoan Bight
 
 discovered_by = western
 discovered_by = eastern

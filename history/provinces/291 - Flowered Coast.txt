@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 291 - Flowered Coast
 
 discovered_by = western
 discovered_by = eastern

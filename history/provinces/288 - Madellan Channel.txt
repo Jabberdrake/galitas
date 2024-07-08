@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 288 - Madellan Channel
 
 discovered_by = western
 discovered_by = eastern

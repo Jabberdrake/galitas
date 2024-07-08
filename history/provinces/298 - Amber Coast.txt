@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 298 - Amber Coast
 
 discovered_by = western
 discovered_by = eastern

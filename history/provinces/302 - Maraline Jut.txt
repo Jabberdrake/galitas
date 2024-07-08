@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 302 - Maraline Jut
 
 discovered_by = western
 discovered_by = eastern

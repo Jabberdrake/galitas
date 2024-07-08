@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 293 - Pious Man's Channel
 
 discovered_by = western
 discovered_by = eastern

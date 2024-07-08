@@ -1,8 +1,8 @@
 # 278 - Pikcharun
 
-owner = U23
-controller = U23
-add_core = U23
+owner = nan
+controller = nan
+add_core = nan
 
 culture = tchotratchii
 religion = catholic

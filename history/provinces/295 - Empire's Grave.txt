@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 295 - Empire's Grave
 
 discovered_by = western
 discovered_by = eastern

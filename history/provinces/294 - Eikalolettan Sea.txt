@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 294 - Eikalolettan Sea
 
 discovered_by = western
 discovered_by = eastern

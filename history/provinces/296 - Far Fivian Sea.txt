@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 296 - Far Fivian Sea
 
 discovered_by = western
 discovered_by = eastern

@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 300 - Gilded Gulf
 
 discovered_by = western
 discovered_by = eastern

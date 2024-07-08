@@ -1,4 +1,4 @@
-# 284 - Tchutchin Spine
+# 299 - Marnor's Bay
 
 discovered_by = western
 discovered_by = eastern
