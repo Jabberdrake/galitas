@@ -1,0 +1,4 @@
+# 329 - Tessagan Desert
+
+discovered_by = western
+discovered_by = eastern

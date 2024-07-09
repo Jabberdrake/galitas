@@ -301,6 +301,47 @@ province;red;green;blue;x;x
 300;13;18;54;Gilded Gulf;x
 301;10;17;71;Tchutchin Gulf;x
 302;11;20;87;Maraline Jut;x
+303;165;05;14.000;Karassgani Desert;x
+304;119;7;24;Lecca;x
+305;168;4;28;Kara;x
+306;179;11;36;Passaga;x
+307;206;43;67;Segba;x
+308;212;60;83;Kenabba;x
+309;228;90;131;Jumina;x
+310;184;52;92;Beyanala;x
+311;168;60;77;Assaga;x
+312;212;192;34;Kaberna;x
+313;201;50;71;Seluga;x
+314;136;40;55;Polamassa;x
+315;179;27;49;Tea;x
+316;179;154;42;Ibaga;x
+317;179;24;47;Poligara;x
+318;212;60;123;Emiliaga;x
+319;188;68;119;Bala;x
+320;201;45;110;Talia;x
+321;233;227;52;Pélida;x
+322;130;8;80;Yama;x
+323;163;40;133;Pina;x
+324;233;173;52;Kota;x
+325;130;13;82;Tela;x
+326;157;12;98;Ipigga;x
+327;184;50;130;Tamina;x
+328;163;107;140;Batagan Desert;x
+329;141;108;127;Tessagan Desert;x
+330;222;74;127;Maniana;x
+331;168;46;164;Kassa;x
+332;195;156;43;Teliga;x
+333;195;43;190;Tessita;x
+334;104;71;91;Layaka Desert;x
+335;146;25;133;Monikka;x
+336;136;12;122;Kominia;x
+337;212;164;29;Somila;x
+338;119;4;107;Rutila;x
+339;157;33;107;Kalimata;x
+340;174;30;116;Massariga;x
+341;190;68;141;Julia;x
+342;217;197;35;Kebata;x
+343;174;47;123;Samatra;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x

@@ -5,7 +5,7 @@ controller = K00
 add_core = K00
 
 culture = paraikellettino
-religion = communal_occulist
+religion = catholic
 capital = ""
 
 hre = no
