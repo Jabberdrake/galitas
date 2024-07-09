@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = tchotratchii
-religion = catholic
+religion = state_occulist
 technology_group = western
 capital = 119 # Pavedda
 national_focus = DIP

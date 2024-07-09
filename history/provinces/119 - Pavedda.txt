@@ -5,7 +5,7 @@ controller = K00
 add_core = K00
 
 culture = prozoan
-religion = catholic
+religion = state_occulist
 capital = ""
 
 hre = no
