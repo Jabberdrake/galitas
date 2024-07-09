@@ -1,8 +1,8 @@
 # 279 - Doshintcha
 
-owner = U023
-controller = U023
-add_core = U023
+owner = U23
+controller = U23
+add_core = U23
 
 culture = gurtunchii
 religion = catholic
