@@ -1,8 +1,8 @@
 # 314 - Polamassa
 
-owner = nan
-controller = nan
-add_core = nan
+owner = L03
+controller = L03
+add_core = L03
 
 culture = bassataki
 religion = catholic

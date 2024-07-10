@@ -1,4 +1,4 @@
-# 360 - Kï¿½parre
+# 360 - Kàparre
 
 owner = L00
 controller = L00
