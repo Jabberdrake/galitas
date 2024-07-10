@@ -1,8 +1,8 @@
 # 118 - Padia
 
-owner = K00
-controller = K00
-add_core = K00
+owner = P00
+controller = P00
+add_core = P00
 
 culture = prozoan
 religion = catholic

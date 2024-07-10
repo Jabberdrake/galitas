@@ -1,8 +1,8 @@
 # 114 - Mera Harepponna
 
-owner = K02
-controller = K02
-add_core = K02
+owner = P02
+controller = P02
+add_core = P02
 
 culture = paraikellettino
 religion = catholic
