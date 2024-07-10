@@ -1,17 +1,17 @@
 vassal = {
-    first = K00
-    second = K01
+    first = P00
+    second = P01
     start_date = 1444.1.1
 }
 
 vassal = {
-    first = K00
-    second = K02
+    first = P00
+    second = P02
     start_date = 1444.1.1
 }
 
 vassal = {
-    first = K00
+    first = P00
     second = U00
     start_date = 1444.1.1
 }
