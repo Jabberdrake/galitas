@@ -301,7 +301,7 @@ province;red;green;blue;x;x
 300;13;18;54;Gilded Gulf;x
 301;10;17;71;Tchutchin Gulf;x
 302;11;20;87;Maraline Jut;x
-303;165;05;14.000;Karassgani Desert;x
+303;163;123;134;Karassgani Desert;x
 304;119;7;24;Lecca;x
 305;168;4;28;Kara;x
 306;179;11;36;Passaga;x
@@ -342,6 +342,12 @@ province;red;green;blue;x;x
 341;190;68;141;Julia;x
 342;217;197;35;Kebata;x
 343;174;47;123;Samatra;x
+344;255;0;0;Xi'yàrä;x
+345;69;27;38;Klörtsu;x
+346;184;73;112;Thalui;x
+347;209;139;147;Galixui;x
+348;132;52;78;Dzigalol;x
+349;101;40;57;Kololiui;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x

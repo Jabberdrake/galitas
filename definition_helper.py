@@ -18,7 +18,7 @@ df.columns = ["name", "id", "type", "rgb", "area", "region", "superregion", "con
 df = df.dropna(axis=0, subset=['type'])
 
 # [Config] to run this script, set this variable to the id of the last registered province (excluding the ones with ids in the 49xx-5000 range)
-last_province = 343       # touch this one
+last_province = 349       # touch this one
 first_temp = 4971       # do not touch
 max_provinces = 5000    # do not touch
 
@@ -36,10 +36,10 @@ with open('map/definition.csv', 'w', encoding='UTF-8', newline='') as def_file:
         row = [id, rgb, x, "x"]
         writer.writerow(row)
 
-definition = open("map/definition.csv")
+definition = open("map/definition.csv", encoding='UTF-8')
 newtext = definition.read().replace(",", ";")
 definition.close()
 
-definition = open("map/definition.csv", "w")
+definition = open("map/definition.csv", "w", encoding='UTF-8')
 definition.write(newtext)
 definition.close()
