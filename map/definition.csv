@@ -321,14 +321,14 @@ province;red;green;blue;x;x
 320;201;45;110;Talia;x
 321;233;227;52;Pélida;x
 322;130;8;80;Yama;x
-323;163;40;133;Pina;x
+323;163;40;113;Pina;x
 324;233;173;52;Kota;x
 325;130;13;82;Tela;x
 326;157;12;98;Ipigga;x
 327;184;50;130;Tamina;x
 328;163;107;140;Batagan Desert;x
 329;141;108;127;Tessagan Desert;x
-330;222;74;127;Maniana;x
+330;222;74;217;Maniana;x
 331;168;46;164;Kassa;x
 332;195;156;43;Teliga;x
 333;195;43;190;Tessita;x
@@ -375,7 +375,12 @@ province;red;green;blue;x;x
 374;131;84;171;Kenire;x
 375;225;36;55;Puni;x
 376;199;82;94;Muye;x
-377;208;134;146;Keyanna;x
+377;224;142;150;Keyanna;x
+378;85;0;23;Dziuathal;x
+379;125;0;35;Aboligäm;x
+380;164;0;54;Kligäm;x
+381;229;0;80;Kötxu;x
+382;235;104;119;Thalitgäm;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x
