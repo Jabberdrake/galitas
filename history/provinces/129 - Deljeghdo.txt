@@ -5,7 +5,7 @@ controller = U06
 add_core = U06
 
 culture = drosvagan
-religion = catholic
+religion = communal_occulist
 capital = ""
 
 hre = no

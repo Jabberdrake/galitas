@@ -5,7 +5,7 @@ controller = nan
 add_core = nan
 
 culture = paraikellettino
-religion = catholic
+religion = communal_occulist
 capital = ""
 
 hre = no

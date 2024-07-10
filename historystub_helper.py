@@ -117,7 +117,7 @@ with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
                 if religion_str in religion_map.keys():
                     religion = religion_map[religion_str]
                 else:
-                    religion = f_remove_accents[religion_str].lower().replace(" ", "_")
+                    religion = f_remove_accents(religion_str).lower().replace(" ", "_")
 
                 # treats "Base Tax" cell
                 base_tax = df.at[provID-1, 'base_tax']

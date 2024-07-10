@@ -5,7 +5,7 @@ controller = P02
 add_core = P02
 
 culture = paraikellettino
-religion = catholic
+religion = communal_occulist
 capital = ""
 
 hre = no

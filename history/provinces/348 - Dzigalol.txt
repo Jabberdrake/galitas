@@ -4,8 +4,8 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = bassataki
-religion = catholic
+culture = capitol_xi
+religion = abotsu
 capital = ""
 
 hre = no
