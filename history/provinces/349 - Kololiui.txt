@@ -1,8 +1,8 @@
 # 349 - Kololiui
 
-owner = nan
-controller = nan
-add_core = nan
+owner = L07
+controller = L07
+add_core = L07
 
 culture = capitol_xi
 religion = abotsu
