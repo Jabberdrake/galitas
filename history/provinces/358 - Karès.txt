@@ -1,8 +1,8 @@
-# 358 - Karès
+# 358 - Karï¿½s
 
-owner = nan
-controller = nan
-add_core = nan
+owner = L01
+controller = L01
+add_core = L01
 
 culture = kamassarani
 religion = catholic
