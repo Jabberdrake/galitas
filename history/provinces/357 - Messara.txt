@@ -1,8 +1,14 @@
 # 357 - Messara
 
+<<<<<<< HEAD
 owner = L02
 controller = L02
 add_core = L02
+=======
+owner = L01
+controller = L01
+add_core = L01
+>>>>>>> d2cd7d676b15cf7eeb0b0e1b275cda1243ce1a84
 
 culture = kamassarani
 religion = catholic

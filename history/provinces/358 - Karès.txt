@@ -1,4 +1,4 @@
-# 358 - Karès
+# 358 - Karï¿½s
 
 owner = L02
 controller = L02
