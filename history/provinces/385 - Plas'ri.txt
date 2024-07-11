@@ -1,8 +1,8 @@
 # 385 - Plas'ri
 
-owner = nan
-controller = nan
-add_core = x
+owner = L08
+controller = L08
+add_core = L08
 
 culture = bulsai
 religion = amethyst_cult
