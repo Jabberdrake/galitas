@@ -2,7 +2,7 @@
 
 graphical_culture = muslimgfx
 
-color = { 204  94  206 }
+color = { 159  92  206 }
 
 # Used for client states
 historical_idea_groups = {	
