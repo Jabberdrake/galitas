@@ -1,0 +1,4 @@
+# 387 - Gi gämä
+
+discovered_by = western
+discovered_by = eastern

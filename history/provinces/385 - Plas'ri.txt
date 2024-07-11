@@ -1,11 +1,11 @@
-# 352 - Laya
+# 385 - Plas'ri
 
-owner = L02
-controller = L02
-add_core = L02
+owner = L08
+controller = L08
+add_core = L08
 
-culture = kamassarani
-religion = catholic
+culture = bulsai
+religion = amethyst_cult
 capital = ""
 
 hre = no

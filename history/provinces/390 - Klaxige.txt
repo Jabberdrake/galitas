@@ -1,11 +1,11 @@
-# 352 - Laya
+# 390 - Klaxige
 
-owner = L02
-controller = L02
-add_core = L02
+owner = L07
+controller = L07
+add_core = L07
 
-culture = kamassarani
-religion = catholic
+culture = central_xi
+religion = abotsu
 capital = ""
 
 hre = no

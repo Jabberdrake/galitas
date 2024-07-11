@@ -32,7 +32,7 @@ severe_winter = {
 
 impassable = {
 	#nan
-	188 284 303 328 329 334
+	188 284 303 328 329 334 387
 
 	#Galitas
 	230 231 232
