@@ -1,0 +1,4 @@
+# 412 - Xigy Xämä
+
+discovered_by = western
+discovered_by = eastern
