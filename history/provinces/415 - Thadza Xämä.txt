@@ -1,0 +1,4 @@
+# 415 - Thadza Xämä
+
+discovered_by = western
+discovered_by = eastern
