@@ -1,8 +1,8 @@
 # 124 - Sirro
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P06
+controller = P06
+add_core = P06
 
 culture = paraikellettino
 religion = communal_occulist
