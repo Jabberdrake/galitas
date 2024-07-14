@@ -4,7 +4,7 @@ owner = P00
 controller = P00
 add_core = P03
 
-culture = prozoan
+culture = madellan
 religion = state_occulist
 capital = ""
 

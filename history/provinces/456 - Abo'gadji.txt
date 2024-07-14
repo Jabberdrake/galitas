@@ -1,11 +1,11 @@
-# 96 - Oro
+# 456 - Abo'gadji
 
-owner = P00
-controller = P00
-add_core = P03
+owner = L07
+controller = L07
+add_core = L07
 
-culture = madellan
-religion = communal_occulist
+culture = central_xi
+religion = abotsu
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = grain
+trade_goods = tropical_wood
 
 is_city = yes
 fort_15th = no
