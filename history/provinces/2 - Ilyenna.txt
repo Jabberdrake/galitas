@@ -2,7 +2,7 @@
 
 owner = P00
 controller = P00
-add_core = P00
+add_core = P04
 
 culture = prozoan
 religion = catholic

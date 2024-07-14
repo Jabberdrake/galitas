@@ -2,7 +2,7 @@
 
 owner = P00
 controller = P00
-add_core = P00
+add_core = P03
 
 culture = prozoan
 religion = communal_occulist
