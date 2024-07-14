@@ -1,7 +1,9 @@
 government = monarchy
 add_government_reform = feudal_france_reform
-primary_culture = laghvnalan
+primary_culture = katiichard
 add_accepted_culture = drunnan
+add_accepted_culture = tukan
+add_accepted_culture = katiichards
 religion = catholic
 technology_group = western
 capital = 246 # Katichi

@@ -1,6 +1,9 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = tchotratchii
+add_accepted_culture = lolettan
+add_accepted_culture = paraikellettino
+add_accepted_culture = madellan
 religion = state_occulist
 technology_group = western
 capital = 119 # Pavedda

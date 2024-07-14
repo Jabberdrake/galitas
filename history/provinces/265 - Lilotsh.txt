@@ -1,10 +1,10 @@
 # 265 - Lilotsh
 
-owner = nan
-controller = nan
+owner = U08
+controller = U08
 add_core = nan
 
-culture = tukan
+culture = tchotkathiine
 religion = catholic
 capital = ""
 
