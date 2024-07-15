@@ -2,7 +2,7 @@
 
 owner = U08
 controller = U08
-add_core = nan
+add_core = U08
 
 culture = tchotkathiine
 religion = catholic

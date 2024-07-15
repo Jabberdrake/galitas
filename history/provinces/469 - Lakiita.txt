@@ -1,11 +1,11 @@
-# 2 - Ilyenna
+# 469 - Lakiita
 
-owner = P00
-controller = P00
-add_core = P04
+owner = L13
+controller = L13
+add_core = L15
 
-culture = lolettan
-religion = catholic
+culture = central_xi
+religion = abotsu
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = grain
+trade_goods = tropical_wood
 
 is_city = yes
 fort_15th = no

@@ -4,7 +4,7 @@ owner = P00
 controller = P00
 add_core = P05
 
-culture = prozoan
+culture = lolettan
 religion = catholic
 capital = ""
 
