@@ -1,10 +1,10 @@
 # 464 - Rindi
 
-owner = L08
-controller = L08
-add_core = L10
+owner = P08
+controller = P08
+add_core = P08
 
-culture = central_xi
+culture = inner_kratian
 religion = abotsu
 capital = ""
 

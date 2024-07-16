@@ -1,11 +1,11 @@
 # 483 - Chilakinne
 
-owner = L27
-controller = L27
-add_core = L29
+owner = P08
+controller = P08
+add_core = P08
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

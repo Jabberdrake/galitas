@@ -1,11 +1,11 @@
 # 490 - Corgobbo
 
-owner = L34
-controller = L34
-add_core = L36
+owner = P11
+controller = P11
+add_core = P11
 
-culture = central_xi
-religion = abotsu
+culture = borocheddan
+religion = communal_occulist
 capital = ""
 
 hre = no

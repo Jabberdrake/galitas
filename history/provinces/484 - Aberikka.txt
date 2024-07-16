@@ -1,11 +1,11 @@
 # 484 - Aberikka
 
-owner = L28
-controller = L28
-add_core = L30
+owner = P07
+controller = P07
+add_core = P07
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

@@ -1,11 +1,11 @@
 # 479 - Kressiki
 
-owner = L23
-controller = L23
-add_core = L25
+owner = P09
+controller = P09
+add_core = P09
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

@@ -1,11 +1,11 @@
 # 498 - Kratchiina
 
-owner = L42
-controller = L42
-add_core = L44
+owner = P07
+controller = P07
+add_core = P07
 
-culture = central_xi
-religion = abotsu
+culture = lesser_kratian
+religion = communal_occulist
 capital = ""
 
 hre = no

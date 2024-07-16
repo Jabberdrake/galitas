@@ -1,11 +1,11 @@
 # 505 - Luwekka
 
-owner = L49
-controller = L49
-add_core = L51
+owner = nan
+controller = nan
+add_core = nan
 
 culture = central_xi
-religion = abotsu
+religion = communal_occulist
 capital = ""
 
 hre = no

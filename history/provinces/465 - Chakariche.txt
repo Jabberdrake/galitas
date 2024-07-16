@@ -1,10 +1,10 @@
 # 465 - Chakariche
 
-owner = L09
-controller = L09
-add_core = L11
+owner = P08
+controller = P08
+add_core = P08
 
-culture = central_xi
+culture = inner_kratian
 religion = abotsu
 capital = ""
 

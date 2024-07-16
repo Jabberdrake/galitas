@@ -1,11 +1,11 @@
 # 487 - Polikko Kratto
 
-owner = L31
-controller = L31
-add_core = L33
+owner = P07
+controller = P07
+add_core = P07
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

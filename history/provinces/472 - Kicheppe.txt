@@ -1,10 +1,10 @@
 # 472 - Kicheppe
 
-owner = L16
-controller = L16
-add_core = L18
+owner = P08
+controller = P08
+add_core = P08
 
-culture = central_xi
+culture = lesser_kratian
 religion = abotsu
 capital = ""
 

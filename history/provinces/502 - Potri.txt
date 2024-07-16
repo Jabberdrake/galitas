@@ -1,11 +1,11 @@
 # 502 - Potri
 
-owner = L46
-controller = L46
-add_core = L48
+owner = P10
+controller = P10
+add_core = P10
 
-culture = central_xi
-religion = abotsu
+culture = lesser_kratian
+religion = communal_occulist
 capital = ""
 
 hre = no

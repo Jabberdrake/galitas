@@ -1,11 +1,11 @@
 # 506 - Lomona Laywan
 
-owner = L50
-controller = L50
-add_core = L52
+owner = nan
+controller = nan
+add_core = nan
 
 culture = central_xi
-religion = abotsu
+religion = communal_occulist
 capital = ""
 
 hre = no

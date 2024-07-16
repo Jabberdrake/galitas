@@ -1,11 +1,11 @@
 # 495 - Pedirikki
 
-owner = L39
-controller = L39
-add_core = L41
+owner = P07
+controller = P07
+add_core = P07
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

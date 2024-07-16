@@ -1,10 +1,10 @@
 # 467 - Mochikkide
 
-owner = L11
-controller = L11
-add_core = L13
+owner = P08
+controller = P08
+add_core = P08
 
-culture = central_xi
+culture = inner_kratian
 religion = abotsu
 capital = ""
 

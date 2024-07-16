@@ -1,11 +1,11 @@
 # 478 - Kressianikka
 
-owner = L22
-controller = L22
-add_core = L24
+owner = P09
+controller = P09
+add_core = P09
 
-culture = central_xi
-religion = abotsu
+culture = kratchii
+religion = communal_occulist
 capital = ""
 
 hre = no

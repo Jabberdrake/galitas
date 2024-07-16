@@ -1,11 +1,11 @@
 # 504 - Polé
 
-owner = L48
-controller = L48
-add_core = L50
+owner = nan
+controller = nan
+add_core = nan
 
 culture = central_xi
-religion = abotsu
+religion = communal_occulist
 capital = ""
 
 hre = no
