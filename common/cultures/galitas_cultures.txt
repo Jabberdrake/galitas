@@ -204,6 +204,48 @@ kratioketii = {
 			"Je Jerkajkhom" "Je Aberjhekom" "Je Kahrisahek"
 		}	
 	}
+	lesser_kratian = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Jehkome" "Baldjemehre" "Kjardeme"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Jhehrimo" "Purjeko" "Dollimke"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Je Jerkajkhom" "Je Aberjhekom" "Je Kahrisahek"
+		}	
+	}
+	borocheddan = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Jehkome" "Baldjemehre" "Kjardeme"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Jhehrimo" "Purjeko" "Dollimke"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Je Jerkajkhom" "Je Aberjhekom" "Je Kahrisahek"
+		}	
+	}
+	inner_kratian = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Jehkome" "Baldjemehre" "Kjardeme"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Jhehrimo" "Purjeko" "Dollimke"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Je Jerkajkhom" "Je Aberjhekom" "Je Kahrisahek"
+		}	
+	}
 }
 
 essonic = {
