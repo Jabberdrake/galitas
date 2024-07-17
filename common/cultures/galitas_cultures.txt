@@ -519,7 +519,21 @@ Klakteban = {
 			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo" 
 		}	
 	}
-	gama_xi = {
+	central_xi = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
+			"Kue" "Fue" "Lyue" "Klue" "Xue" "
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3 DynastyName4 DynastyName5 DynastyName6 DynastyName7 DynastyName8
+			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo" 
+		}	
+	}
+	patrai = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
 			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"
@@ -535,11 +549,11 @@ Klakteban = {
 	}
 }
 
-Liu'kolly = {
+gi = {
 	bulsai = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
-			"Kue" "Fue" "Lyue" "Klue" "Xue" "
+			"Kue" "Fue" "Lyue" "Klue" "Xue"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
@@ -548,6 +562,23 @@ Liu'kolly = {
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3 DynastyName4 DynastyName5 DynastyName6 DynastyName7 DynastyName8
 			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo" 
+		}	
+	}
+}
+
+dukin = {
+	patrai = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
+			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3 DynastyName4
+			"li Sao" "li Xenu" "li Gumi" "li ljau"
 		}	
 	}
 }
