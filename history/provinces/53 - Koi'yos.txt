@@ -1,11 +1,11 @@
 # 53 - Koi'yos
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A00
+controller = A00
+add_core = A00
 
 culture = ableol
-religion = catholic
+religion = windsinger
 capital = ""
 
 hre = no

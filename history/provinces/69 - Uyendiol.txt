@@ -5,7 +5,7 @@ controller = nan
 add_core = nan
 
 culture = lelendol
-religion = catholic
+religion = windsinger
 capital = ""
 
 hre = no

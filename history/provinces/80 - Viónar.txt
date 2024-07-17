@@ -1,11 +1,11 @@
 # 80 - Viónar
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A03
+controller = A03
+add_core = A03
 
 culture = leantiri
-religion = catholic
+religion = windsinger
 capital = ""
 
 hre = no
