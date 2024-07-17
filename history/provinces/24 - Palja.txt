@@ -1,8 +1,8 @@
 # 24 - Palja
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A19
+controller = A19
+add_core = A19
 
 culture = cerisol
 religion = windsinger

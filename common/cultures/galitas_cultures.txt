@@ -566,7 +566,7 @@ gi = {
 	}
 }
 
-dukin = {
+dukit = {
 	patrai = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
