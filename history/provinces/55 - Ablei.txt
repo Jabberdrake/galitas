@@ -1,11 +1,11 @@
 # 55 - Ablei
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A01
+controller = A01
+add_core = A01
 
 culture = ableol
-religion = catholic
+religion = windsinger
 capital = ""
 
 hre = no

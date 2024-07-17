@@ -1,11 +1,11 @@
 # 57 - Ligol
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A02
+controller = A02
+add_core = A02
 
 culture = ableol
-religion = catholic
+religion = windsinger
 capital = ""
 
 hre = no
