@@ -1,8 +1,8 @@
 # 78 - Ablol
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A08
+controller = A08
+add_core = A08
 
 culture = lelendol
 religion = windsinger

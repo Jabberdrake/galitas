@@ -1,8 +1,8 @@
 # 39 - Meljikom
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A14
+controller = A14
+add_core = A14
 
 culture = cerisol
 religion = windsinger

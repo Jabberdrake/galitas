@@ -1,10 +1,10 @@
 # 9 - Koimathwe
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A16
+controller = A16
+add_core = A16
 
-culture = cosmopolitan_french
+culture = sokathiiludic
 religion = windsinger
 capital = ""
 

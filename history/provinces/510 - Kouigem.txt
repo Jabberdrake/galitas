@@ -1,11 +1,11 @@
-# 10 - Perkelawe
+# 510 - Kouigem
 
-owner = A16
-controller = A16
-add_core = A16
+owner = L07
+controller = L07
+add_core = L10
 
-culture = sokathiiludic
-religion = windsinger
+culture = loui
+religion = abotsu
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = grain
+trade_goods = tropical_wood
 
 is_city = yes
 fort_15th = no

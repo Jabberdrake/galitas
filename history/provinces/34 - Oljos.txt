@@ -1,8 +1,8 @@
 # 34 - Oljos
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A12
+controller = A12
+add_core = A12
 
 culture = cerisol
 religion = windsinger

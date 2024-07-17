@@ -1,8 +1,8 @@
 # 32 - Kalakne
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A11
+controller = A11
+add_core = A11
 
 culture = cerisol
 religion = windsinger

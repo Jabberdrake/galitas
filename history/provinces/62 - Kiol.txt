@@ -1,8 +1,8 @@
 # 62 - Kiol
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A04
+controller = A04
+add_core = A04
 
 culture = lelendol
 religion = windsinger

@@ -1,10 +1,10 @@
 # 40 - Bey Laham
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A15
+controller = A15
+add_core = A15
 
-culture = cosmopolitan_french
+culture = beylami
 religion = windsinger
 capital = ""
 

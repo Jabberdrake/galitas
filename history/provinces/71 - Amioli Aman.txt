@@ -1,8 +1,8 @@
 # 71 - Amioli Aman
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A09
+controller = A09
+add_core = A09
 
 culture = lelenlamadiol
 religion = windsinger

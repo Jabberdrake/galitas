@@ -1,8 +1,8 @@
 # 19 - Peyukne
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A18
+controller = A18
+add_core = A18
 
 culture = limunnii
 religion = windsinger

@@ -64,8 +64,4 @@ L05 = "countries/Tessaga.txt"
 L06 = "countries/Layaka.txt"
 L07 = "countries/Klakateba.txt"
 L08 = "countries/Liu'kolly.txt"
-<<<<<<< HEAD
-L08 = "countries/Dukit.txt"
-=======
 L09 = "countries/dukit.txt"
->>>>>>> ef1bbf1be6f52d43775ce056c56fc2874205253d
