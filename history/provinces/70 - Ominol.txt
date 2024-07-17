@@ -1,8 +1,8 @@
 # 70 - Ominol
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A07
+controller = A07
+add_core = A07
 
 culture = lelendol
 religion = windsinger

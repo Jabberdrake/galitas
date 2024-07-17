@@ -1,10 +1,10 @@
-# 444 - Abògä'dhzy
+# 508 - Agmenoi
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L10
 
-culture = capitol_xi
+culture = loui
 religion = abotsu
 capital = ""
 

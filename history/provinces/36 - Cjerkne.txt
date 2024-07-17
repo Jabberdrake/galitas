@@ -1,8 +1,8 @@
 # 36 - Cjerkne
 
-owner = nan
-controller = nan
-add_core = nan
+owner = A13
+controller = A13
+add_core = A13
 
 culture = cerisol
 religion = windsinger
