@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = patrai
 religion = catholic
-technology_group = western
+technology_group = eastern
 capital = 362 # Ximä'òkloi
 national_focus = DIP
 
