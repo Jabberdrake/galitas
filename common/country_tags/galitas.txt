@@ -9,6 +9,10 @@ NAT = "countries/Natives.txt"
 FRA = "countries/France.txt"
 
 # Upper Spine (Uxx)
+A00 = "countries/Koi'yos.txt"
+A01 = "countries/Ableios.txt"
+A02 = "countries/Mayatiol.txt"
+A03 = "countries/Vionar.txt"
 U00 = "countries/Rastago.txt"
 U01 = "countries/Leja.txt"
 U02 = "countries/Sorognava.txt"
