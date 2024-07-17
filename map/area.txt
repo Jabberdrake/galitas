@@ -370,6 +370,45 @@ Thui_gädji = {
 Lui'àglim = {
 	460 461 462 463
 }
+Inner Kratia = {
+	464 465 466 467
+}
+Kitadetchii = {
+	468 469 470
+}
+Poskeddattii = {
+	471 472 473
+}
+Cheppiri-Reka = {
+	474 475 476
+}
+Kressin-Inakki = {
+	477 478 479
+}
+Pallikara = {
+	480 481 482 483
+}
+Kratchenii-Kapitta = {
+	484 485 486 487
+}
+Boroucheddo = {
+	488 489 490 491 492
+}
+Periadda = {
+	493 494 495 496 497
+}
+Kratchiina = {
+	498 499 500
+}
+Potrebektrii = {
+	501 502 503
+}
+Keraanu-karté = {
+	504
+}
+Luwekkawan = {
+	505 506
+}
 ########################################
 # Base Game							   #
 ########################################
