@@ -2,9 +2,9 @@
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L15
 
-culture = nan
+culture = ajuri
 religion = abotsu
 capital = ""
 

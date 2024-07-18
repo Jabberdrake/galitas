@@ -1,11 +1,11 @@
-# 579 - Aigan
+# 598 - Port D'Évangéline
 
-owner = L07
-controller = L07
-add_core = L15
+owner = L70
+controller = L70
+add_core = L70
 
-culture = ajuri
-religion = abotsu
+culture = evangeline
+religion = catholic
 capital = ""
 
 hre = no
