@@ -1,7 +1,7 @@
 # 509 - Jérinne
 
-owner = L07
-controller = L07
+owner = L10
+controller = L10
 add_core = L10
 
 culture = loui

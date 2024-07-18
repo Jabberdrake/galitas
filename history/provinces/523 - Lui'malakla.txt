@@ -1,10 +1,10 @@
-# 510 - Kouigem
+# 523 - Lui'malakla
 
-owner = L10
-controller = L10
-add_core = L10
+owner = L07
+controller = L07
+add_core = L07
 
-culture = loui
+culture = gam_xi
 religion = abotsu
 capital = ""
 

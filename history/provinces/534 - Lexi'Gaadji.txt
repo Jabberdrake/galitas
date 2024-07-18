@@ -1,10 +1,10 @@
-# 510 - Kouigem
+# 534 - Lexi'Gaadji
 
-owner = L10
-controller = L10
-add_core = L10
+owner = L07
+controller = L07
+add_core = L07
 
-culture = loui
+culture = ligamxia
 religion = abotsu
 capital = ""
 
