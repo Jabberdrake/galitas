@@ -1,4 +1,4 @@
-government = monarchy
+government = theocracy
 add_government_reform = feudal_france_reform
 primary_culture = paraikellettino
 religion = catholic

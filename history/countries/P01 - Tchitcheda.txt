@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = paraikellettino
-religion = catholic
+religion = communal_occulist
 technology_group = western
 capital = 112 # Haleppa
 national_focus = DIP

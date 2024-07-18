@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = lesser_kratian
-religion = catholic
+religion = state_occulist
 technology_group = western
 capital = 502 # Potri
 national_focus = DIP

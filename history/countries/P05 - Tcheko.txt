@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = lolettan
-religion = catholic
+religion = communal_occulist
 technology_group = western
 capital = 4 # Tcheko
 national_focus = DIP
