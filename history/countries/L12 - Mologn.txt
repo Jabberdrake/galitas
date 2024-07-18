@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudal_france_reform
-primary_culture = ajuriajuri
+primary_culture = loui
 religion = catholic
 technology_group = eastern
 capital = 589 # Gexui
