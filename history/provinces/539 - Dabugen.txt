@@ -1,0 +1,23 @@
+# 539 - Dabugen
+
+owner = L07
+controller = L07
+add_core = L07
+
+culture = nan
+religion = abotsu
+capital = ""
+
+hre = no
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = tropical_wood
+
+is_city = yes
+fort_15th = no
+
+discovered_by = western
+discovered_by = eastern

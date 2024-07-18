@@ -533,6 +533,34 @@ Klakteban = {
 			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo"
 		}
 	}
+	gam_xi = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
+			"Kue" "Fue" "Lyue" "Klue" "Xue"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3 DynastyName4 DynastyName5 DynastyName6 DynastyName7 DynastyName8
+			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo"
+		}
+	}
+	ligamxia = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
+			"Kue" "Fue" "Lyue" "Klue" "Xue"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3 DynastyName4 DynastyName5 DynastyName6 DynastyName7 DynastyName8
+			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo"
+		}
+	}
 }
 
 gi = {
@@ -551,6 +579,20 @@ gi = {
 		}
 	}
 	loui = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
+			"Kue" "Fue" "Lyue" "Klue" "Xue"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3 DynastyName4 DynastyName5 DynastyName6 DynastyName7 DynastyName8
+			"li Buro" "li Dzuy" "li Tenae" "li Dye" "li Tunye" "li Shu" "li Jo" "li Xo" 
+		}
+	}
+	lia_gi = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 
 			"Kue" "Fue" "Lyue" "Klue" "Xue"
