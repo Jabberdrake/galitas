@@ -5,7 +5,7 @@ controller = U08
 add_core = U08
 
 culture = katiichard
-religion = reformed_goatmother
+religion = kuthchinama
 capital = ""
 
 hre = no

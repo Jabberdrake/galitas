@@ -5,7 +5,7 @@ controller = P08
 add_core = P08
 
 culture = lesser_kratian
-religion = communal_occulist
+religion = state_occulist
 capital = ""
 
 hre = no

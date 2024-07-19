@@ -5,7 +5,7 @@ controller = U19
 add_core = U19
 
 culture = maraline
-religion = black_mountain_songs
+religion = kuthchinama
 capital = ""
 
 hre = no

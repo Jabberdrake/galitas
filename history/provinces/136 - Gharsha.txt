@@ -5,7 +5,7 @@ controller = U03
 add_core = U03
 
 culture = drosvagan
-religion = black_mountain_songs
+religion = communal_occulist
 capital = ""
 
 hre = no
