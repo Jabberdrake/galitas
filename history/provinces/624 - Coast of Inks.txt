@@ -1,0 +1,4 @@
+# 624 - Coast of Inks
+
+discovered_by = western
+discovered_by = eastern

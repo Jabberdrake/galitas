@@ -1,0 +1,4 @@
+# 608 - Posellin Strand
+
+discovered_by = western
+discovered_by = eastern

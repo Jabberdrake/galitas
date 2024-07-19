@@ -1,0 +1,4 @@
+# 599 - Mer Évangélinoise
+
+discovered_by = western
+discovered_by = eastern

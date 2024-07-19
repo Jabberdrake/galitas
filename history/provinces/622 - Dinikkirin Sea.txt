@@ -1,0 +1,4 @@
+# 622 - Dinikkirin Sea
+
+discovered_by = western
+discovered_by = eastern

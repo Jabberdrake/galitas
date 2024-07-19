@@ -1,0 +1,4 @@
+# 615 - Bay Of Kargassa
+
+discovered_by = western
+discovered_by = eastern

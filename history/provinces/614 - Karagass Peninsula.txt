@@ -1,0 +1,4 @@
+# 614 - Karagass Peninsula
+
+discovered_by = western
+discovered_by = eastern

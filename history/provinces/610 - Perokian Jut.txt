@@ -1,0 +1,4 @@
+# 610 - Perokian Jut
+
+discovered_by = western
+discovered_by = eastern

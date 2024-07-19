@@ -2,7 +2,7 @@
 
 owner = P07
 controller = P07
-add_core = P07
+add_core = P12
 
 culture = kratchii
 religion = communal_occulist
