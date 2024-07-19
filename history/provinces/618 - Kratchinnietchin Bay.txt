@@ -1,0 +1,4 @@
+# 618 - Kratchinnietchin Bay
+
+discovered_by = western
+discovered_by = eastern

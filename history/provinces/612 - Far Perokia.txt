@@ -1,0 +1,4 @@
+# 612 - Far Perokia
+
+discovered_by = western
+discovered_by = eastern

@@ -1,0 +1,4 @@
+# 607 - Karul
+
+discovered_by = western
+discovered_by = eastern
