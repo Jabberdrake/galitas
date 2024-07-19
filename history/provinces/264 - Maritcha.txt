@@ -5,7 +5,7 @@ controller = U08
 add_core = U08
 
 culture = tchotkathiine
-religion = catholic
+religion = reformed_goatmother
 capital = ""
 
 hre = no

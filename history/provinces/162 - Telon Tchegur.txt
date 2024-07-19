@@ -5,7 +5,7 @@ controller = U21
 add_core = U21
 
 culture = maraline
-religion = catholic
+religion = black_mountain_songs
 capital = ""
 
 hre = no
