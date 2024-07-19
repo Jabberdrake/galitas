@@ -1,7 +1,7 @@
 goatmother_group = {
         flags_with_emblem_percentage = 33
         flag_emblem_index_range = { 28 28 }
-        Kuthchinama = {
+        kuthchinama = {
                 icon = 19
                 color = { 211 23 15 }
                 country = {
