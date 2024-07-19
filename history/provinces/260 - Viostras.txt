@@ -5,7 +5,7 @@ controller = nan
 add_core = nan
 
 culture = tukan
-religion = catholic
+religion = kuthchinama
 capital = ""
 
 hre = no

@@ -5,7 +5,7 @@ controller = L05
 add_core = L05
 
 culture = bassataki
-religion = catholic
+religion = state_occulist
 capital = ""
 
 hre = no

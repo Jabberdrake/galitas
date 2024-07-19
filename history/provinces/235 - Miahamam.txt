@@ -5,7 +5,7 @@ controller = U22
 add_core = U22
 
 culture = tchotratchii
-religion = catholic
+religion = reformed_goatmother
 capital = ""
 
 hre = no

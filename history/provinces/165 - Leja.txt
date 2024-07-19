@@ -5,7 +5,7 @@ controller = U01
 add_core = U01
 
 culture = laghvnalan
-religion = catholic
+religion = black_mountain_songs
 capital = ""
 
 hre = no
