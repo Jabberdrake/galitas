@@ -1,4 +1,4 @@
-# 599 - Mer Évagélinoise
+# 605 - Far Luinni sea
 
 discovered_by = western
 discovered_by = eastern

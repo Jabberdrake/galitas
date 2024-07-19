@@ -1,0 +1,4 @@
+# 601 - Détroit sous vent
+
+discovered_by = western
+discovered_by = eastern
