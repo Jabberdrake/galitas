@@ -1,0 +1,4 @@
+# 600 - Mer de la Trinitée
+
+discovered_by = western
+discovered_by = eastern

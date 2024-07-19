@@ -1,0 +1,4 @@
+# 603 - Liuunian Coast
+
+discovered_by = western
+discovered_by = eastern

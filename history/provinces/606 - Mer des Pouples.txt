@@ -1,0 +1,4 @@
+# 606 - Mer des Pouples
+
+discovered_by = western
+discovered_by = eastern

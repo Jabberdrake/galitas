@@ -1,0 +1,4 @@
+# 602 - Bay of Amoliou
+
+discovered_by = western
+discovered_by = eastern
