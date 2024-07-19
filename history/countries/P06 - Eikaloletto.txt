@@ -1,5 +1,5 @@
 government = theocracy
-add_government_reform = feudal_france_reform
+add_government_reform = monastic_reform
 primary_culture = paraikellettino
 religion = catholic
 technology_group = western
