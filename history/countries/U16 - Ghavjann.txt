@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = drunnan
-religion = catholic
+religion = black_mountain_songs
 technology_group = western
 capital = 225 # Ornaban
 national_focus = DIP
