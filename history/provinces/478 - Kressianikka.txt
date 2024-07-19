@@ -5,7 +5,7 @@ controller = P09
 add_core = P09
 
 culture = kratchii
-religion = communal_occulist
+religion = state_occulist
 capital = ""
 
 hre = no
