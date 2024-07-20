@@ -5,7 +5,7 @@ controller = U23
 add_core = U23
 
 culture = tchotratchii
-religion = catholic
+religion = kuthchinama
 capital = ""
 
 hre = no

@@ -5,7 +5,7 @@ controller = U18
 add_core = U18
 
 culture = maraline
-religion = catholic
+religion = kuthchinama
 capital = ""
 
 hre = no

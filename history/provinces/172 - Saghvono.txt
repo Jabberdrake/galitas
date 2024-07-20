@@ -5,7 +5,7 @@ controller = nan
 add_core = nan
 
 culture = drunnan
-religion = catholic
+religion = black_mountain_songs
 capital = ""
 
 hre = no

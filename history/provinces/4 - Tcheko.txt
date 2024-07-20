@@ -5,7 +5,7 @@ controller = P00
 add_core = P05
 
 culture = lolettan
-religion = catholic
+religion = communal_occulist
 capital = ""
 
 hre = no

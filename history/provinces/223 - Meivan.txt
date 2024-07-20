@@ -5,7 +5,7 @@ controller = U16
 add_core = U16
 
 culture = drunnan
-religion = catholic
+religion = black_mountain_songs
 capital = ""
 
 hre = no

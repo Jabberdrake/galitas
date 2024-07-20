@@ -5,7 +5,7 @@ controller = nan
 add_core = nan
 
 culture = central_xi
-religion = communal_occulist
+religion = state_occulist
 capital = ""
 
 hre = no

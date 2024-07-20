@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = maraline
-religion = catholic
+religion = kuthchinama
 technology_group = western
 capital = 155 # Gomtchar
 national_focus = DIP

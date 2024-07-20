@@ -2,7 +2,8 @@ government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = drunnan
 technology_group = western
-capital = 208 # Tòshvann
+religion = black_mountain_songs
+capital = 208 # black_mountain_songs
 national_focus = DIP
 
 change_estate_land_share = {

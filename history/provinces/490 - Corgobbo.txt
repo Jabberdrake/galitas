@@ -5,7 +5,7 @@ controller = P11
 add_core = P11
 
 culture = borocheddan
-religion = communal_occulist
+religion = state_occulist
 capital = ""
 
 hre = no

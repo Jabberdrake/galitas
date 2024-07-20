@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudal_france_reform
-primary_culture = laghvnalan
+primary_culture = communal_occulist
 add_accepted_culture = drunnan
 religion = catholic
 technology_group = western

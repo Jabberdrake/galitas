@@ -5,7 +5,7 @@ controller = U02
 add_core = U02
 
 culture = laghvnalan
-religion = catholic
+religion = communal_occulist
 capital = ""
 
 hre = no

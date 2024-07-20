@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudal_france_reform
-primary_culture = laghvnalan
+primary_culture = communal_occulist
 add_accepted_culture = drunnan
-religion = catholic
+religion = communal_occulist
 technology_group = western
 capital = 130 # Delnaghda
 national_focus = DIP
