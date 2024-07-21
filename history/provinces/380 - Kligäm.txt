@@ -2,9 +2,9 @@
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L49
 
-culture = capitol_xi
+culture = ligamxia
 religion = abotsu
 capital = ""
 

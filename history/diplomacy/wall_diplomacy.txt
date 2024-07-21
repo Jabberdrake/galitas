@@ -1,0 +1,29 @@
+vassal = {
+    first = L50
+    second = L47
+    start_date = 1444.1.1
+}
+
+vassal = {
+    first = L50
+    second = L48
+    start_date = 1444.1.1
+}
+
+vassal = {
+    first = L50
+    second = L49
+    start_date = 1444.1.1
+}
+
+vassal = {
+    first = L50
+    second = L51
+    start_date = 1444.1.1
+}
+
+vassal = {
+    first = L50
+    second = L52
+    start_date = 1444.1.1
+}
