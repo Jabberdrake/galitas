@@ -2,7 +2,7 @@
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L18
 
 culture = erait
 religion = abotsu

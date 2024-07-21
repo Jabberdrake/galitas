@@ -3,6 +3,7 @@
 owner = L07
 controller = L07
 add_core = L09
+add_core = L50
 
 culture = patrai
 religion = abotsu
