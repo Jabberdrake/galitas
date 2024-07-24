@@ -1,11 +1,11 @@
-# 426 - Lui'gaklio
+# 666 - Lokkonga
 
-owner = L07
-controller = L07
-add_core = L20
+owner = nan
+controller = nan
+add_core = nan
 
-culture = central_xi
-religion = abotsu
+culture = koakiol
+religion = laioli-folk-religion
 capital = ""
 
 hre = no

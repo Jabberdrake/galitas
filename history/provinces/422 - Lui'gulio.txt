@@ -5,7 +5,7 @@ controller = L07
 add_core = L08
 add_core = L16
 
-culture = central_xi
+culture = bulsai
 religion = abotsu
 capital = ""
 
