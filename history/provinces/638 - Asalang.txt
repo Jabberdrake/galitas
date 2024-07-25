@@ -1,8 +1,8 @@
 # 638 - Asalang
 
-owner = nan
-controller = nan
-add_core = nan
+owner = H00
+controller = H00
+add_core = H00
 
 culture = kahmaniol
 religion = laioli-folk-religion

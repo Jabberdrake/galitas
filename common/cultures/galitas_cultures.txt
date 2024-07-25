@@ -742,3 +742,48 @@ ludic = {
 		}	
 	}
 }
+
+haiwalaiq = {
+	kahmaniol = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	oheniol = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	koakiol = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+}
