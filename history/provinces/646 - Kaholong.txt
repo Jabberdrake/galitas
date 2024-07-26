@@ -1,10 +1,10 @@
-# 669 - Kopoyasong
+# 646 - Kaholong
 
-owner = nan
-controller = nan
-add_core = nan
+owner = H01
+controller = H01
+add_core = H01
 
-culture = koakiol
+culture = kahmaniol
 religion = laioli-folk-religion
 capital = ""
 

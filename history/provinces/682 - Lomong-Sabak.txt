@@ -1,10 +1,10 @@
-# 663 - Palayang
+# 682 - Lomong-Sabak
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = kahmaniol
+culture = oheniol
 religion = laioli-folk-religion
 capital = ""
 

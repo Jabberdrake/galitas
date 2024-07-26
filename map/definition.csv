@@ -641,41 +641,51 @@ province;red;green;blue;x;x
 640;59;6;57;Lohego;x
 641;46;15;45;Onom;x
 642;65;28;59;Kohena;x
-643;65;23;57;Olynang;x
-644;168;105;183;Lomong-Oyang;x
+643;65;23;57;Olohanang;x
+644;168;105;183;Lomong-Owang;x
 645;183;128;196;Oga;x
-646;190;141;203;Kayolong;x
+646;190;141;203;Kaholong;x
 647;73;47;111;Pohola;x
 648;58;35;92;Malanga;x
 649;92;52;81;Podon;x
 650;52;29;46;Honanang;x
 651;102;43;82;Bodek;x
-652;142;73;115;Koyolang;x
+652;142;73;115;Kowolang;x
 653;181;86;160;Pol Pogon;x
 654;184;95;164;Poloha Kolanong;x
 655;157;105;143;Nomong;x
-656;111;41;64;Poyong-Aset;x
+656;111;41;64;Pohong-Aset;x
 657;213;135;216;Kopaga;x
-658;187;116;190;Yonoko-lagan;x
-659;98;31;53;Yodonagang;x
+658;187;116;190;Honoko-lagan;x
+659;98;31;53;Wodonagang;x
 660;158;76;153;Ineng;x
-661;128;65;123;Yapang;x
+661;128;65;123;Hapang;x
 662;122;46;117;Belang;x
-663;98;37;86;Palayang;x
+663;98;37;86;Palahang;x
 664;77;28;73;Lomokang;x
 665;65;21;56;Hemanang;x
 666;167;95;170;Lokkonga;x
-667;128;57;131;Konoko;x
+667;128;54;131;Konoko;x
 668;108;41;111;Kopaga;x
-669;139;57;143;Kopoyasong;x
+669;139;57;143;Kopowasong;x
 670;170;88;173;Kolog;x
 671;149;68;153;Pokek;x
-672;70;29;97;Poyo Osek;x
-673;86;45;112;Hagano Osek;x
+672;70;29;97;Poho Osek;x
+673;85;45;112;Hagano Osek;x
 674;2;5;17;North Laiol Coast;x
 675;9;13;46;Konoki Coast;x
-676;82;91;150;Cape Kayolong;x
+676;82;91;150;Cape Kawolong;x
 677;9;16;59;Kahmanequi Bay;x
+678;91;29;103;Koahang;x
+679;92;38;83;Polowong;x
+680;71;25;69;Honan;x
+681;87;15;84;Pulowana;x
+682;106;48;111;Lomong-Sabak;x
+683;78;50;119;Hawomon;x
+684;65;32;56;Salekan;x
+685;146;65;128;Kawetang;x
+686;181;94;184;Loyon;x
+687;80;38;109;Puwohon;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x

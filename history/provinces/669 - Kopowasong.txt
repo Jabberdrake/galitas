@@ -1,10 +1,10 @@
-# 661 - Yapang
+# 669 - Kopowasong
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = kahmaniol
+culture = koakiol
 religion = laioli-folk-religion
 capital = ""
 

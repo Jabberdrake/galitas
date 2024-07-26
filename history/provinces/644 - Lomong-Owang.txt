@@ -1,10 +1,10 @@
-# 672 - Poyo Osek
+# 644 - Lomong-Owang
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = koakiol
+culture = kahmaniol
 religion = laioli-folk-religion
 capital = ""
 

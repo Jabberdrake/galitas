@@ -1,10 +1,10 @@
-# 658 - Yonoko-lagan
+# 683 - Hawomon
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = kahmaniol
+culture = oheniol
 religion = laioli-folk-religion
 capital = ""
 

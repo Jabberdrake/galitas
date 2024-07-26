@@ -1,10 +1,10 @@
-# 638 - Asalang
+# 680 - Honan
 
-owner = H00
-controller = H00
-add_core = H00
+owner = nan
+controller = nan
+add_core = nan
 
-culture = kahmaniol
+culture = oheniol
 religion = laioli-folk-religion
 capital = ""
 

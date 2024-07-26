@@ -1,4 +1,4 @@
-# 676 - Cape Kayolong
+# 676 - Cape Kawolong
 
 discovered_by = western
 discovered_by = eastern
