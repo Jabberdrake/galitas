@@ -26,7 +26,7 @@ province;red;green;blue;x;x
 25;177;89;11;Milijekne;x
 26;222;112;14;Lahjakna;x
 27;136;89;14;Umme;x
-28;179;115;14;Pal√©;x
+28;179;115;14;PalÈ;x
 29;168;81;6;Hakassa;x
 30;157;8;8;Pokjeken;x
 31;125;3;3;Keros;x
@@ -61,24 +61,24 @@ province;red;green;blue;x;x
 60;104;165;238;Mayantaal;x
 61;71;137;214;Ludiol;x
 62;84;182;226;Kiol;x
-63;101;192;232;Meyi√±ediol;x
+63;101;192;232;MeyiÒediol;x
 64;115;204;243;Nona;x
-65;87;226;226;Lodi√±ol;x
-66;112;249;249;√ëumedal;x
+65;87;226;226;LodiÒol;x
+66;112;249;249;—umedal;x
 67;51;197;163;Cominol;x
-68;70;209;177;Le√±adiol;x
+68;70;209;177;LeÒadiol;x
 69;51;197;96;Uyendiol;x
 70;70;203;111;Ominol;x
 71;156;243;230;Amioli Aman;x
-72;113;232;214;Ki√±a Karol;x
-73;94;209;191;Ama√±ol;x
+72;113;232;214;KiÒa Karol;x
+73;94;209;191;AmaÒol;x
 74;131;238;221;Malomol;x
 75;128;191;244;Omalta Minol;x
 76;104;177;239;Kominol;x
 77;80;157;222;Behwana;x
 78;165;177;243;Ablol;x
 79;143;156;232;Halwa;x
-80;195;151;5;Vi√≥nar;x
+80;195;151;5;ViÛnar;x
 81;220;199;85;Jel;x
 82;197;180;83;Neia;x
 83;209;187;70;Missen;x
@@ -86,7 +86,7 @@ province;red;green;blue;x;x
 85;18;29;122;Limmonic Sea;x
 86;10;14;46;Windsinger's Throat;x
 87;7;12;52;Allolic Bight;x
-88;1;5;35;O√±anin Sea;x
+88;1;5;35;OÒanin Sea;x
 89;10;15;58;Far Allolic Sea;x
 90;9;18;93;Allolic Sea;x
 91;6;10;41;Cerisolan Tare;x
@@ -191,7 +191,7 @@ province;red;green;blue;x;x
 190;20;11;38;Tovela;x
 191;36;23;60;Trismile;x
 192;44;26;76;Terbann;x
-193;39;17;76;K√¨ldann;x
+193;39;17;76;KÏldann;x
 194;54;29;98;Polan;x
 195;100;30;136;Noline;x
 196;59;15;81;Orjann;x
@@ -200,32 +200,32 @@ province;red;green;blue;x;x
 199;49;7;71;Gharja;x
 200;71;4;53;Kevlan;x
 201;87;18;69;Meivan;x
-202;98;14;76;T√¨le;x
+202;98;14;76;TÏle;x
 203;76;14;60;Sole;x
 204;152;32;121;Kevaan;x
 205;174;58;144;Technaan;x
 206;190;61;157;Jajvann;x
 207;114;23;90;Mekval;x
-208;172;29;29;T√≤shvann;x
-209;206;38;38;Volt√≤nak;x
-210;155;23;23;Mejt√≤v;x
+208;172;29;29;TÚshvann;x
+209;206;38;38;VoltÚnak;x
+210;155;23;23;MejtÚv;x
 211;136;20;63;Ghenna;x
 212;119;15;38;Harjann;x
 213;136;44;78;Kaave;x
-214;141;31;72;Shev√≤n;x
+214;141;31;72;ShevÚn;x
 215;104;10;31;Kavnaan;x
 216;163;16;16;Ormen;x
 217;179;44;44;Kervan;x
 218;168;8;8;Mijan;x
-219;201;113;62;Kavt√≤n;x
+219;201;113;62;KavtÚn;x
 220;201;96;35;Mirev;x
-221;190;74;7;P√≤shev;x
+221;190;74;7;PÚshev;x
 222;179;80;22;Kotov;x
 223;174;53;32;Meivan;x
 224;162;27;4;Shalgav;x
 225;197;35;7;Ornaban;x
 226;162;38;16;Kajarn;x
-227;145;28;7;P√≤shmen;x
+227;145;28;7;PÚshmen;x
 228;190;172;23;Dragonsneck;x
 229;228;209;56;Oom's Pass;x
 230;136;122;122;Black Mountains;x
@@ -319,7 +319,7 @@ province;red;green;blue;x;x
 318;212;60;123;Emiliaga;x
 319;188;68;119;Bala;x
 320;201;45;110;Talia;x
-321;233;227;52;P√©lida;x
+321;233;227;52;PÈlida;x
 322;130;8;80;Yama;x
 323;163;40;113;Pina;x
 324;233;173;52;Kota;x
@@ -342,8 +342,8 @@ province;red;green;blue;x;x
 341;190;68;141;Julia;x
 342;217;197;35;Kebata;x
 343;174;47;123;Samatra;x
-344;255;0;0;Xi'y√†r√§;x
-345;69;27;38;Kl√∂rtsu;x
+344;255;0;0;Xi'y‡r‰;x
+345;69;27;38;Klˆrtsu;x
 346;184;73;112;Thalui;x
 347;209;139;147;Galixui;x
 348;132;52;78;Dzigalol;x
@@ -354,11 +354,11 @@ province;red;green;blue;x;x
 353;99;31;101;Mayanna;x
 354;186;90;188;Lassa;x
 355;242;164;244;Sasare;x
-356;179;76;181;K√†vessa;x
+356;179;76;181;K‡vessa;x
 357;209;66;212;Messara;x
-358;110;37;107;Kar√®s;x
+358;110;37;107;KarËs;x
 359;183;62;178;Lamasse;x
-360;195;136;170;K√†parre;x
+360;195;136;170;K‡parre;x
 361;141;71;111;Markatta;x
 362;212;33;96;Payare;x
 363;141;22;64;Lema;x
@@ -377,15 +377,15 @@ province;red;green;blue;x;x
 376;199;82;94;Muye;x
 377;224;142;150;Keyanna;x
 378;85;0;23;Dziuathal;x
-379;125;0;35;Abolig√§m;x
-380;164;0;54;Klig√§m;x
-381;229;0;80;K√∂txu;x
-382;235;104;119;Thalitg√§m;x
+379;125;0;35;Abolig‰m;x
+380;164;0;54;Klig‰m;x
+381;229;0;80;Kˆtxu;x
+382;235;104;119;Thalitg‰m;x
 383;89;149;29;Xlse'ri;x
 384;79;132;26;Faxl'dan;x
 385;122;205;40;Plas'ri;x
 386;158;211;106;Gutxlai;x
-387;122;122;122;Gi g√§m√§;x
+387;122;122;122;Gi g‰m‰;x
 388;45;153;168;agam'guxa;x
 389;66;137;147;agam'dzhy;x
 390;120;189;199;Klaxige;x
@@ -409,21 +409,21 @@ province;red;green;blue;x;x
 408;61;141;103;Biyum;x
 409;89;157;125;Abyloa;x
 410;51;125;90;Dubomi;x
-411;17;17;17;Dh√´ X√§m√§;x
-412;30;30;30;Xigy X√§m√§;x
-413;40;40;40;Fuxi X√§m√§;x
-414;69;69;69;Kue X√§m√§;x
-415;79;79;79;Thadza X√§m√§;x
-416;89;89;89;Klai X√§m√§;x
-417;102;102;102;Txie X√§m√§;x
-418;145;145;145;Dhyxi X√§m√§;x
-419;135;135;135;Kamaxi X√§m√§;x
-420;156;156;156;Duxi X√§m√§;x
+411;17;17;17;DhÎ X‰m‰;x
+412;30;30;30;Xigy X‰m‰;x
+413;40;40;40;Fuxi X‰m‰;x
+414;69;69;69;Kue X‰m‰;x
+415;79;79;79;Thadza X‰m‰;x
+416;89;89;89;Klai X‰m‰;x
+417;102;102;102;Txie X‰m‰;x
+418;145;145;145;Dhyxi X‰m‰;x
+419;135;135;135;Kamaxi X‰m‰;x
+420;156;156;156;Duxi X‰m‰;x
 421;220;234;118;Dzuxi'xage;x
 422;153;168;45;Lui'gulio;x
 423;165;183;29;Kukle'gam;x
-424;121;133;35;K√∂xilia'gam;x
-425;229;196;226;Lui'lixik√∂;x
+424;121;133;35;Kˆxilia'gam;x
+425;229;196;226;Lui'lixikˆ;x
 426;196;145;191;Lui'gaklio;x
 427;173;93;161;Dzhji'thaxi;x
 428;106;0;95;Mutxa'gam;x
@@ -437,13 +437,13 @@ province;red;green;blue;x;x
 436;43;78;108;Kogam;x
 437;58;109;147;Guogam;x
 438;105;142;175;Dzuxigam;x
-439;52;50;75;Li√† g√§m√∂r;x
-440;116;112;137;Kl√¨g√§m;x
-441;75;75;105;Li√†j√≤m;x
-442;56;134;115;Tsu√†l'y√†r√§;x
-443;20;87;64;G√§'xidhzy;x
-444;76;160;143;Ab√≤g√§'dhzy;x
-445;4;66;42;Liu'ab√≤√∂r;x
+439;52;50;75;Li‡ g‰mˆr;x
+440;116;112;137;KlÏg‰m;x
+441;75;75;105;Li‡jÚm;x
+442;56;134;115;Tsu‡l'y‡r‰;x
+443;20;87;64;G‰'xidhzy;x
+444;76;160;143;AbÚg‰'dhzy;x
+445;4;66;42;Liu'abÚˆr;x
 446;5;82;14;Tsua'gan;x
 447;60;156;7;Klja;x
 448;25;124;31;Yi'gan;x
@@ -451,17 +451,17 @@ province;red;green;blue;x;x
 450;79;170;74;Klui'dzija;x
 451;128;211;43;Klju'dhzy;x
 452;149;225;62;Xi'gan;x
-453;168;238;79;Gadzij√†;x
+453;168;238;79;Gadzij‡;x
 454;210;246;164;Abo'dzuxi;x
 455;157;25;82;Gan'gadji;x
 456;177;44;97;Abo'gadji;x
 457;214;99;149;Feji'gadji;x
 458;233;141;190;Dzuxi'gadji;x
 459;242;170;209;Kla'gadji;x
-460;234;248;6;Punx√§ g√§m;x
+460;234;248;6;Punx‰ g‰m;x
 461;245;253;114;Lui'kles;x
-462;251;255;174;Xim√§'√≤kloi;x
-463;254;242;212;F√´r'tsukli;x
+462;251;255;174;Xim‰'Úkloi;x
+463;254;242;212;FÎr'tsukli;x
 464;230;130;42;Rindi;x
 465;245;145;57;Chakariche;x
 466;250;157;75;Mochi Kiineki;x
@@ -502,12 +502,12 @@ province;red;green;blue;x;x
 501;198;136;82;Beshtrikke;x
 502;206;147;95;Potri;x
 503;195;166;144;Aertchekki;x
-504;136;160;175;Pol√©;x
+504;136;160;175;PolÈ;x
 505;107;222;200;Luwekka;x
 506;121;233;211;Lomona Laywan;x
 507;34;41;145;Laibugem;x
 508;48;58;159;Agmenoi;x
-509;52;64;166;J√©rinne;x
+509;52;64;166;JÈrinne;x
 510;92;98;189;Kouigem;x
 511;122;124;207;Agnevu;x
 512;126;66;147;Lui'thukoliu;x
@@ -517,23 +517,23 @@ province;red;green;blue;x;x
 516;180;120;199;Dzji'laikla;x
 517;120;120;199;Oauok'gam;x
 518;186;186;239;Lui'aborixi;x
-519;103;103;249;Kejem√∂r'gam;x
+519;103;103;249;Kejemˆr'gam;x
 520;126;147;66;Abothokli;x
 521;180;199;120;Dzhji'kluxima;x
 522;221;250;133;Guxe'gam;x
 523;226;239;186;Lui'malakla;x
-524;186;239;213;Daxig√§m;x
-525;133;250;191;Koxeg√§m;x
+524;186;239;213;Daxig‰m;x
+525;133;250;191;Koxeg‰m;x
 526;66;147;106;Dzuxikle;x
-527;120;199;159;Auliug√§m;x
-528;45;168;106;Fulag√§m;x
+527;120;199;159;Auliug‰m;x
+528;45;168;106;Fulag‰m;x
 529;137;147;66;Lui'klakoima;x
 530; 189;199;120;Liakla'gadji;x
 531;233;239;186;Lui'gudzji;x
 532;235;250;133;Dhog'agam;x
 533; 191;163;143;Fazu'Gaadji;x
 534;167;131;107;Lexi'Gaadji;x
-535;119;92;75;Ku√±e'Gaadji;x
+535;119;92;75;KuÒe'Gaadji;x
 536;90;68;57;Xaye'Gaadji;x
 537;62;47;39;Gukla'Gaadji;x
 538; 205;66;100;Liuklami;x
@@ -551,12 +551,12 @@ province;red;green;blue;x;x
 550;241;99;65;Djuilei;x
 551;239;72;32;Liakagen;x
 552;168;94;45;Fadzu'Gadji;x
-553;147;98;66;Liuya√±;x
-554;250;180;133;Auya√±;x
-555;239;207;186;Guya√±;x
+553;147;98;66;LiuyaÒ;x
+554;250;180;133;AuyaÒ;x
+555;239;207;186;GuyaÒ;x
 556;120;199;180;Yiugaji;x
-557;66;147;126;Liudjaya√±;x
-558;186;239;226;Airtudjiya√±;x
+557;66;147;126;LiudjayaÒ;x
+558;186;239;226;AirtudjiyaÒ;x
 559;0;161;233;Ezakla;x
 560;0;183;238;Eurta;x
 561;0;89;130;Eirjul;x
@@ -595,11 +595,11 @@ province;red;green;blue;x;x
 594;196;129;34;Xargeau;x
 595;175;104;14;Parboui;x
 596;180;63;63;Grand Phar;x
-597;122;4;4;Vieux Monast√®re;x
-598;197;14;14;Port D'√âvang√©line;x
-599;15;30;118;Mer √âvang√©linoise;x
-600;29;42;119;Mer de la Trinit√©e;x
-601;56;74;179;D√©troit sous vent;x
+597;122;4;4;Vieux MonastËre;x
+598;197;14;14;Port D'…vangÈline;x
+599;15;30;118;Mer …vangÈlinoise;x
+600;29;42;119;Mer de la TrinitÈe;x
+601;56;74;179;DÈtroit sous vent;x
 602;13;22;76;Bay of Amoliou;x
 603;19;31;103;Liuunian Coast;x
 604;12;17;49;Luiinic gulf;x
@@ -624,12 +624,12 @@ province;red;green;blue;x;x
 623;11;18;70;Ludian Sea;x
 624;9;15;60;Coast of Inks;x
 625;9;22;130;Lesser Kratian Coast;x
-626;228;56;56;Les Moullini√®res;x
-627;179;32;32;Les Arm√©lines;x
+626;228;56;56;Les MoulliniËres;x
+627;179;32;32;Les ArmÈlines;x
 628;141;27;27;Kaprelinne;x
 629;81;8;8;Sarvante;x
 630;130;20;20;Carnoix;x
-631;114;8;8;Geun√©rinne;x
+631;114;8;8;GeunÈrinne;x
 632;228;80;80;Kantes;x
 633;71;18;81;Ohengo;x
 634;90;44;99;Hewe Kahmang;x
@@ -665,6 +665,7 @@ province;red;green;blue;x;x
 664;77;28;73;Lomokang;x
 665;65;21;56;Hemanang;x
 666;167;95;170;Lokkonga;x
+667;128;54;131;Konoko;x
 667;128;54;131;Konoko;x
 668;108;41;111;Kopaga;x
 669;139;57;143;Kopowasong;x

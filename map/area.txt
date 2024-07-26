@@ -505,6 +505,42 @@ Les-Huitres  = {
 Pourriesse  = {
 	629 630 631 632
 }
+Kahmanang  = {
+	633 634 635 636
+}
+Naxonang  = {
+	637 638
+}
+Okoliang  = {
+	639 640 641 642 643
+}
+Kayanese-Cape  = {
+	644 645 646
+}
+Pohommic-Plateau  = {
+	647 648 649 650
+}
+Polohan-Plateau  = {
+	651 652 653 654 655
+}
+Yonang  = {
+	656 657 658 659
+}
+Yapanang = {
+	660 661 662
+}
+Belang = {
+	663 664 665
+}
+Konokang = {
+	666 667 668
+}
+Laiolanong = {
+	669 670 671 672 673
+}
+Laiol-Coast = {
+	674 675 676 677
+}
 ########################################
 # Base Game							   #
 ########################################
