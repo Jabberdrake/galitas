@@ -1,8 +1,8 @@
 # 663 - Palahang
 
-owner = H01
-controller = H01
-add_core = H01
+owner = nan
+controller = nan
+add_core = nan
 
 culture = kahmaniol
 religion = laioli-folk-religion
