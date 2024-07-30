@@ -374,7 +374,7 @@ Inner Kratia = {
 	464 465 466 467
 }
 Kitadetchii = {
-	468 469 470
+	468 469 470 692
 }
 Poskeddattii = {
 	471 472 473
@@ -383,7 +383,7 @@ Cheppiri-Reka = {
 	474 475 476
 }
 Kressin-Inakki = {
-	477 478 479 692
+	477 478 479
 }
 Pallikara = {
 	480 481 482 483

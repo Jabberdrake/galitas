@@ -1,8 +1,8 @@
 # 689 - Pardanaddi
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P13
+controller = P13
+add_core = P13
 
 culture = inner_kratian
 religion = windsinger
