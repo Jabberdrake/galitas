@@ -1,7 +1,7 @@
 government = republic
 add_government_reform = feudal_france_reform
 primary_culture = inner_kratian
-religion = 
+religion = windsinger
 technology_group = western
 capital = 688 # Kolettchi
 national_focus = DIP
