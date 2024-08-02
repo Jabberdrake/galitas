@@ -29,7 +29,7 @@ galitas_land_area = {
 }
 
 galitas_impassable_area = {
-	8 9 10 11 12 13 14 15 16 17 18 19 20
+	10 11 12 13 14 15 16 17 18 19 20
 	21 22 23 24 25 
 }
 
@@ -374,7 +374,7 @@ Inner Kratia = {
 	464 465 466 467
 }
 Kitadetchii = {
-	468 469 470
+	468 469 470 692
 }
 Poskeddattii = {
 	471 472 473
@@ -504,6 +504,144 @@ Les-Huitres  = {
 }
 Pourriesse  = {
 	629 630 631 632
+}
+Kahmanang  = {
+	633 634 635 636 678
+}
+Naxonang  = {
+	637 638
+}
+Okoliang  = {
+	641 642 680 679
+}
+Lohelang  = {
+	639 640 643 681
+}
+Kawanese-Cape  = {
+	644 645 646 682
+}
+Pohommic-Plateau  = {
+	650 683 648
+}
+Pohommic-slope  = {
+	649 684 647
+}
+Polohan-Plateau  = {
+	651 654 655
+}
+Polohan-Woodland  = {
+	685 653 652
+}
+Honang  = {
+	656 657 658 659 686
+}
+Lapanang = {
+	660 661 662
+}
+Belang = {
+	663 664 665
+}
+Konokang = {
+	666 667 668
+}
+Laiolanong = {
+	669 670 671
+}
+Homonghelan = {
+	672 673 687
+}
+Laiol-Coast = {
+	674 675 676 677
+}
+Akaratheialkawa-lopitawa = {
+	688 689 690 691
+}
+Thelawe-Waklawe = {
+	693 694 695 696
+}
+Kaweilate = {
+	697 698 699 700
+}
+Nahwana = {
+	701 702 703 704
+}
+Kalethawe = {
+	705 706 707 708 709
+}
+Anokathuwe = {
+	710 711 712 713
+}
+Polkihan-peninsula = {
+	714 715 716 717 718
+}
+Lunar-crucible’s-rim = {
+	719 720 721
+}
+Lower-Inakuhiawe = {
+	722 723 724 725
+}
+Upper-Inakuhiawe = {
+	726 727 728 729
+}
+Salathwe = {
+	730 731 732 733 734
+}
+Lesser-Marmatta = {
+	735 736 737
+}
+Further-Lesser-Marmatta = {
+	738 739 740
+}
+Kinsawa = {
+	741 742 743
+}
+Walennua = {
+	744 745 746 747 748
+}
+Walennua = {
+	744 745 746 747 748
+}
+Allolic-Marches = {
+	749 750 751 752
+}
+Trans-Lurewane = {
+	753 754 755 756
+}
+Maritime-Lwettawa = {
+	757 758 759
+}
+Cis-Lurewane  = {
+	760 761 762 763 764
+}
+Honnan-country  = {
+	765 766 767 768
+}
+Keithalewa  = {
+	769 770 771 772
+}
+Sokathiine-throat  = {
+	773 774 775 776 777
+}
+Sokathiine-heartland  = {
+	778 779 780 781 782
+}
+Kratian-stand  = {
+	783 784 785 786
+}
+Ithelawa  = {
+	787 788 789 790 791
+}
+Low-Ilalawena  = {
+	787 788 789 790 791
+}
+Low-Ilalawena  = {
+	792 793 794 795
+}
+High-Ilalawena  = {
+	796 797 798 799
+}
+Podathwe  = {
+	8 9 800
 }
 ########################################
 # Base Game							   #

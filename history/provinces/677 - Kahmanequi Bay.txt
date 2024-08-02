@@ -1,0 +1,4 @@
+# 677 - Kahmanequi Bay
+
+discovered_by = western
+discovered_by = eastern

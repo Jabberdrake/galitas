@@ -1,0 +1,23 @@
+# 654 - Poloha Kolanong
+
+owner = nan
+controller = nan
+add_core = nan
+
+culture = kahmaniol
+religion = laioli-folk-religion
+capital = ""
+
+hre = no
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+trade_goods = tropical_wood
+
+is_city = yes
+fort_15th = no
+
+discovered_by = western
+discovered_by = eastern
