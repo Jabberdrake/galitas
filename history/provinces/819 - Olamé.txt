@@ -1,8 +1,8 @@
 # 819 - Olamé
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P18
+controller = P18
+add_core = P18
 
 culture = upperessuni
 religion = communal_occulist

@@ -1,8 +1,8 @@
 # 839 - Alémusa
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P19
+controller = P19
+add_core = P19
 
 culture = essuni
 religion = communal_occulist

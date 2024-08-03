@@ -1,8 +1,8 @@
 # 841 - Essénté
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P19
+controller = P19
+add_core = P19
 
 culture = ulenii
 religion = communal_occulist
