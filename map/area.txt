@@ -404,7 +404,7 @@ Potrebektrii = {
 	501 502 503
 }
 Keraanu-karté = {
-	504
+	504 801 802 803
 }
 Luwekkawan = {
 	505 506
@@ -631,7 +631,7 @@ Kratian-stand  = {
 Ithelawa  = {
 	787 788 789 790 791
 }
-Low-Ilalawena  = {
+High-Ilalawena  = {
 	787 788 789 790 791
 }
 Low-Ilalawena  = {
@@ -642,6 +642,45 @@ High-Ilalawena  = {
 }
 Podathwe  = {
 	8 9 800
+}
+Partanéna  = {
+	804 805 806
+}
+Partanéna  = {
+	804 805 806 807
+}
+Hannéna  = {
+	808 809 810
+}
+Vennan-march  = {
+	811 812 813 814
+}
+Usannan  = {
+	815 816 817
+}
+Olannuñu  = {
+	818 819 820 821
+}
+Ponna  = {
+	822 823 824 825
+}
+Tûlañu  = {
+	826 827 828
+}
+Puñu  = {
+	829 830 831
+}
+Sañanu  = {
+	832 833 834
+}
+Assaña  = {
+	835 836 837 838
+}
+Ulan  = {
+	839 840 841
+}
+Namen-marches  = {
+	842 843 844 845 846
 }
 ########################################
 # Base Game							   #
