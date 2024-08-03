@@ -4,7 +4,7 @@ owner = A18
 controller = A18
 add_core = A18
 
-culture = ulenii
+culture = essuni
 religion = windsinger
 capital = ""
 

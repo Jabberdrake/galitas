@@ -6,7 +6,7 @@ add_core = L08
 add_core = L16
 
 culture = bulsai
-religion = abotsu
+religion = abotsuxiok
 capital = ""
 
 hre = no
