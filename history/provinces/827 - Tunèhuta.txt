@@ -1,8 +1,8 @@
-# 827 - Tunèhuta
+# 827 - Tunï¿½huta
 
 owner = P18
 controller = P18
-add_core = P18
+add_core = P20
 
 culture = tulii
 religion = communal_occulist

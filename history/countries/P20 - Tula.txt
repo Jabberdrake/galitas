@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudal_france_reform
-primary_culture = paraikellettino
+primary_culture = tulii
 religion = communal_occulist
 technology_group = western
 capital = 826 # Tulé
