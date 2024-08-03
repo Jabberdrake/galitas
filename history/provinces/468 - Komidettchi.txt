@@ -2,10 +2,10 @@
 
 owner = P08
 controller = P08
-add_core = P08
+add_core = P14
 
 culture = inner_kratian
-religion = abotsu
+religion = state_occulist
 capital = ""
 
 hre = no

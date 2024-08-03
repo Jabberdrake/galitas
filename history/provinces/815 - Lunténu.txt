@@ -1,11 +1,11 @@
-# 467 - Mochikkide
+# 815 - Lunténu
 
-owner = P08
-controller = P08
-add_core = P08
+owner = nan
+controller = nan
+add_core = nan
 
-culture = inner_kratian
-religion = state_occulist
+culture = upperessuni
+religion = communal_occulist
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = tropical_wood
+trade_goods = grain
 
 is_city = yes
 fort_15th = no

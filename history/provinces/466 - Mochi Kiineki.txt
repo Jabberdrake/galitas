@@ -5,7 +5,7 @@ controller = P08
 add_core = P08
 
 culture = inner_kratian
-religion = abotsu
+religion = state_occulist
 capital = ""
 
 hre = no

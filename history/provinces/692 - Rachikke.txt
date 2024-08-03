@@ -1,8 +1,8 @@
 # 692 - Rachikke
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P08
+controller = P08
+add_core = P08
 
 culture = inner_kratian
 religion = windsinger
