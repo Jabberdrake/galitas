@@ -1,7 +1,7 @@
 # 826 - T�l�
 
-owner = P20
-controller = P20
+owner = P18
+controller = P18
 add_core = P20
 
 culture = tulii

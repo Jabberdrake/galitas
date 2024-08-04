@@ -1,8 +1,8 @@
-# 810 - Ussété
+# 810 - Ussï¿½tï¿½
 
 owner = P18
 controller = P18
-add_core = P18
+add_core = P22
 
 culture = palenii
 religion = communal_occulist
