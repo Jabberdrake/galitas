@@ -1,4 +1,4 @@
-# 810 - Ussï¿½tï¿½
+# 810 - Ussété
 
 owner = P18
 controller = P18

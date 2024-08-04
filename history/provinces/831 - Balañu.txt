@@ -1,4 +1,4 @@
-# 831 - Balaï¿½u
+# 831 - Balañu
 
 owner = P18
 controller = P18

@@ -1,4 +1,4 @@
-# 830 - Puï¿½a
+# 830 - Puña
 
 owner = P18
 controller = P18
