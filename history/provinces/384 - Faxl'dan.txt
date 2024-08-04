@@ -5,7 +5,7 @@ controller = L08
 add_core = L08
 
 culture = bulsai
-religion = amethyst_cult
+religion = abotsuxiok
 capital = ""
 
 hre = no

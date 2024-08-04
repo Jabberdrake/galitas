@@ -2,7 +2,7 @@
 
 owner = P18
 controller = P18
-add_core = P18
+add_core = P21
 
 culture = tulii
 religion = communal_occulist

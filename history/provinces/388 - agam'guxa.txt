@@ -1,8 +1,8 @@
-# 388 - agam'guxa
+# 388 - Agam'guxa
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L35
 
 culture = central_xi
 religion = abotsu
