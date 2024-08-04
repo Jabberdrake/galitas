@@ -1,11 +1,11 @@
-# 389 - agam'dzhy
+# 389 - Agam'dzhy
 
 owner = L07
 controller = L07
-add_core = L07
+add_core = L35
 
 culture = central_xi
-religion = abotsu
+religion = abotsuxiok
 capital = ""
 
 hre = no

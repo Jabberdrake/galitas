@@ -1,4 +1,4 @@
-# 827 - Tunï¿½huta
+# 827 - Tunèhuta
 
 owner = P18
 controller = P18
