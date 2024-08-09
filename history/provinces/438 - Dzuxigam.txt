@@ -2,7 +2,8 @@
 
 owner = L07
 controller = L07
-add_core = L07
+add_core =  L36
+add_core = L31
 
 culture = central_xi
 religion = abotsu

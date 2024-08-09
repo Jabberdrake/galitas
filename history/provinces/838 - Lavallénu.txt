@@ -1,10 +1,10 @@
 # 838 - Lavallénu
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P18
+controller = P18
+add_core = P18
 
-culture = ulenii
+culture = essuni
 religion = communal_occulist
 capital = ""
 

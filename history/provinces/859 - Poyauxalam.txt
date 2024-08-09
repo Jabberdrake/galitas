@@ -1,11 +1,11 @@
-# 440 - Klìgäm
+# 859 - Poyauxalam
 
-owner = L07
-controller = L07
-add_core = L07
+owner = nan
+controller = nan
+add_core = nan
 
-culture = capitol_xi
-religion = abotsu
+culture = laxaali
+religion = kuthchinama
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = tropical_wood
+trade_goods = sugar
 
 is_city = yes
 fort_15th = no

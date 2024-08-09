@@ -4,7 +4,7 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = ulenii
+culture = essuni
 religion = windsinger
 capital = ""
 

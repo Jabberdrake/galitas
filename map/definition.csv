@@ -386,8 +386,8 @@ province;red;green;blue;x;x
 385;122;205;40;Plas'ri;x
 386;158;211;106;Gutxlai;x
 387;122;122;122;Gi gämä;x
-388;45;153;168;agam'guxa;x
-389;66;137;147;agam'dzhy;x
+388;45;153;168;Agam'guxa;x
+389;66;137;147;Agam'dzhy;x
 390;120;189;199;Klaxige;x
 391;133;235;250;Gam'xe;x
 392;186;233;239;Dzuxi'huliu;x
@@ -438,7 +438,7 @@ province;red;green;blue;x;x
 437;58;109;147;Guogam;x
 438;105;142;175;Dzuxigam;x
 439;52;50;75;Lià gämör;x
-440;116;112;137;Klìgäm;x
+440;116;112;137;Klìgämor;x
 441;75;75;105;Liàjòm;x
 442;56;134;115;Tsuàl'yàrä;x
 443;20;87;64;Gä'xidhzy;x
@@ -764,7 +764,7 @@ province;red;green;blue;x;x
 763;55;199;206;Pilewa;x
 764;24;167;174;Kithe;x
 765;96;185;189;Hawanineka;x
-766;177;205;209;Pilitewelta;x
+766;117;205;209;Pilitewelta;x
 767;118;213;217;Tolimilena;x
 768;117;181;184;Honna;x
 769;61;208;214;Keithalewa;x
@@ -845,6 +845,23 @@ province;red;green;blue;x;x
 844;134;153;203;Vanommaté;x
 845;140;197;187;Ulta;x
 846;103;188;172;Manem;x
+847;206;159;28;Yaahoxahor;x
+848;184;76;4;Haxaayülam;x
+849;184;112;4;Pouxaiulam;x
+850;184;139;12;Yoaxün-Payulam;x
+851;250;120;33;Xouyalar;x
+852;206;93;18;Laahxouayor;x
+853;184;160;4;Hauyuxaalam;x
+854;195;85;11;Yaaiyu;x
+855;109;44;1;Yahuxaal;x
+856;217;100;22;Poxulam;x
+857;244;164;43;Palxayor;x
+858;217;140;24;Hoyauxalam;x
+859;239;113;29;Poyauxalam;x
+860;168;73;9;Xula;x
+861;141;60;6;Hoxayor;x
+862;109;45;2;Laaxouyor;x
+863;154;208;228;Luuayor;x
 4971;179;158;158;Parmaletto;x
 4972;87;83;83;KratianPeninsula;x
 4973;107;104;104;EmmariaEast;x

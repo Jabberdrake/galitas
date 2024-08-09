@@ -1,10 +1,10 @@
 # 829 - Emma
 
-owner = nan
-controller = nan
-add_core = nan
+owner = P18
+controller = P18
+add_core = P18
 
-culture = tulii
+culture = essuni
 religion = communal_occulist
 capital = ""
 
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = grain
+trade_goods = cocoa
 
 is_city = yes
 fort_15th = no
