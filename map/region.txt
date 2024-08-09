@@ -17,6 +17,12 @@ galitas_water_region = {
 	}
 }
 
+gilded_coast_region = {
+	areas = {
+		poliettjo delnaghda soje gharsha sorognava jejkna marn rastago
+	}
+}
+
 
 ########################################
 # SEA REGIONS                          #

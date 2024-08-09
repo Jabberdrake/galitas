@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = bulsai
-religion = catholic
+religion = abotsuxiok
 technology_group = eastern
 capital = 383 # Xlse'ri
 national_focus = DIP
