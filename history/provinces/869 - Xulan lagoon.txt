@@ -1,0 +1,4 @@
+# 869 - Xulan lagoon
+
+discovered_by = western
+discovered_by = eastern

@@ -1,0 +1,4 @@
+# 876 - Green Cape
+
+discovered_by = western
+discovered_by = eastern

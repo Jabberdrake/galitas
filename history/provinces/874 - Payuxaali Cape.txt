@@ -1,0 +1,4 @@
+# 874 - Payuxaali Cape
+
+discovered_by = western
+discovered_by = eastern

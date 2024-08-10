@@ -1,0 +1,4 @@
+# 873 - Blooming Reef
+
+discovered_by = western
+discovered_by = eastern
