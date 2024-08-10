@@ -1,0 +1,4 @@
+# 875 - Gulf Of Flowers
+
+discovered_by = western
+discovered_by = eastern

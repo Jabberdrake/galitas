@@ -1,0 +1,4 @@
+# 867 - Yaaiyun lagoon
+
+discovered_by = western
+discovered_by = eastern

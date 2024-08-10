@@ -1,0 +1,4 @@
+# 872 - Cape Of Flowers
+
+discovered_by = western
+discovered_by = eastern

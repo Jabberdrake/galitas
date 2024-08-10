@@ -1,0 +1,4 @@
+# 866 - Hauyan river
+
+discovered_by = western
+discovered_by = eastern
