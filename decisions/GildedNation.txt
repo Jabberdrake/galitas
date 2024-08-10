@@ -46,7 +46,7 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			NOT = { exists = A09 }
+			NOT = { exists = U24 }
 			owns_core_province = 128		# Poliettjo
 			owns_core_province = 130		# Delnaghda
             owns_core_province = 134          # Soje
