@@ -19,7 +19,24 @@ df = df.dropna(axis=0, subset=['type'])
 
 # [Config] please add all recognizable tradenodes to this!!
 tradenode_map = {
-    "Parmaletto": "parmaletto"
+    "Debug Node": "debug",
+    "Pavedda": "pavedda",
+    "Tsekkan Channel": "tsekkan-channel",
+    "Lehmunjikom": "lehmunjikom",
+    "Meljikom": "meljikom",
+    "Cominol": "cominol",
+    "Arjagana": "arjagana",
+    "Rastago": "rastago",
+    "Tchutcha": "tchutcha",
+    "Katiichi": "katiichi",
+    "Upper Travnann": "upper-travnann",
+    "Toshvann": "toshvann",
+    "Kara": "kara",
+    "Xi'yàrä": "xiyara",
+    "Allolic Gate": "allolic-gate",
+    "Luiin": "luiin",
+    "Hewe Kahmang": "hewekahmang",
+    "Konoko": "konoko",
 }
 
 # Note: Unlike most other scripts, simply running this script won't cut it.
@@ -28,6 +45,20 @@ tradenode_map = {
 #       After running this script, you should copy the results onto the corresponding "members" section
 #       of the tradenode you're editing.
 #       Also, please delete the result textfile once you're done with it. Thanks!
+
+# [Logic] aux function to format names
+def f_remove_accents(old):
+    """
+    Removes common accent characters, lower form.
+    Uses: regex.
+    """
+    new = old.lower()
+    new = re.sub(r'[àáâãäå]', 'a', new)
+    new = re.sub(r'[èéêë]', 'e', new)
+    new = re.sub(r'[ìíîï]', 'i', new)
+    new = re.sub(r'[òóôõö]', 'o', new)
+    new = re.sub(r'[ùúûü]', 'u', new)
+    return new
 
 # [Logic] where the magic happens
 provnode_mapping = {}
@@ -52,7 +83,10 @@ with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
                 continue
             print("debug: we are in " + line_arr[4])
             tradenode_str = str(df.at[provID-1, 'tradenode'])
-            tradenode = tradenode_map[tradenode_str]
+            if tradenode_str in tradenode_map.keys():
+                tradenode = tradenode_map[tradenode_str]
+            else:
+                tradenode = f_remove_accents(tradenode_str).lower().replace(" ", "_")
             tradenode_tiles = provnode_mapping[tradenode]
             if type_str == "Land":
                 tradenode_tiles[0].append(provID)
@@ -61,8 +95,9 @@ with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
 
 
 with open('tradenode_helper_result.txt', 'w', encoding='ISO-8859-1') as result:
+    statement = ""
     for tradenode in provnode_mapping:
-        statement = tradenode + " = {\n"
+        statement = statement + '\n' + tradenode + " = {\n"
         landtiles_list = provnode_mapping[tradenode][0]
         landtiles_string = ' '.join([str(tile) for tile in landtiles_list])
         seatiles_list = provnode_mapping[tradenode][1]

@@ -5,6 +5,7 @@ tags={
 replace_path="common/countries"
 replace_path="common/country_tags"
 replace_path="common/on_actions"
+replace_path="common/tradenodes"
 replace_path="history/diplomacy"
 replace_path="history/countries"
 replace_path="history/wars"
