@@ -1,11 +1,11 @@
-# 850 - Yoaxün-Payulam
+# 894 - Oom17
 
-owner = U25
-controller = U25
-add_core = U25
+owner = nan
+controller = nan
+add_core = nan
 
-culture = laxaali
-religion = kuthchinama
+culture = oomish
+religion = black_mountain_songs
 capital = ""
 
 hre = no
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = sugar
+trade_goods = gems
 
 is_city = yes
 fort_15th = no
