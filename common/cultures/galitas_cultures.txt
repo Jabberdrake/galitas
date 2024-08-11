@@ -363,6 +363,48 @@ draconic = {
 			DynastyName1 DynastyName2 DynastyName3
 			"Émannujè salé" "Assnallè salé" "Massèla salé"
 		}	
+		travnaantine = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	kejaantine = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	oomish = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
 	}
 }
 
@@ -396,48 +438,6 @@ milostran = {
 		}	
 	}
 	tchotkathiine = {
-		male_names = {
-			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
-		}
-		female_names = {
-			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
-		}
-		dynasty_names = {
-			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
-		}	
-	}
-	travnaantine = {
-		male_names = {
-			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
-		}
-		female_names = {
-			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
-		}
-		dynasty_names = {
-			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
-		}	
-	}
-	kejaantine = {
-		male_names = {
-			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
-		}
-		female_names = {
-			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
-		}
-		dynasty_names = {
-			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
-		}	
-	}
-	oomish = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
 			"Alihe" "Oheppe" "Akaline"
