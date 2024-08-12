@@ -22,6 +22,11 @@ gilded_coast_region = {
 		poliettjo delnaghda soje gharsha sorognava jejkna marn rastago
 	}
 }
+massaran_region = {
+	areas = {
+		Saltbreach White-Massaran Puni Saya Kabarra Markatta Mesarra Mayanna
+	}
+}
 
 
 ########################################

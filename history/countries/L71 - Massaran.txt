@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudal_france_reform
+primary_culture = kimassarani
+add_accepted_culture = kamassarani
+religion = state_occulist
+technology_group = western
+national_focus = DIP
