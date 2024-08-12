@@ -4,10 +4,10 @@ debug = {
     end = yes
     members = {
         #Land Tiles
-        8 9 10 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 773 774 775 776 777 778 779 780 781 782 783 784 785 786 787 788 789 790 791 792 793 794 795 796 797 798 799 800 801 802 803 804 805 806 807 808 809 810 811 812 813 814 815 816 817 818 819 820 821 822 823 824 825 826 827 828 829 830 831 832 833 834 835 836 837 838 839 840 841 842 843 844 845 846 847 848 849 850 851 852 853 854 855 856 857 858 859 860 861 862 863 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 902 903 904 905 906
+        8 9 10 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 773 774 775 776 777 778 779 781 782 783 784 785 786 787 788 789 790 791 792 793 794 795 796 797 798 799 800
 
         #Sea Tiles
-        86 607 608 609 610 611 612 613 614 615 616 617 618 619 621 622 623 864 865 866 867 868 869 871 872 873 874 875 876 877
+        607 608 609 610 611 612 613 614 615 616 617 618 619 620 621 622 865 866 867 868 869 871 872 873 874 875 876 877
     }
     ai_will_propagate_through_trade = yes
 }
@@ -67,7 +67,7 @@ kara = {
     ai_will_propagate_through_trade = yes
 }
 
-upper-travnann = {
+tovela = {
     location = 189
     color = { 50 18 102 }
     inland = yes
@@ -79,7 +79,30 @@ upper-travnann = {
     }
     members = {
         #Land Tiles
-    	189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 228 229
+	    189 190 191 192 193 194 195 196 197 198 199 200 201 228 229
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+harjann = {
+    location = 212
+    color = { 205 74 32 }
+    inland = yes
+    outgoing = {
+        name = "upper-oom"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "toshvann"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    206 207 211 212 213 214 215 216 217 219 220 221 222
     }
     ai_will_propagate_through_trade = yes
 }
@@ -89,6 +112,23 @@ toshvann = {
     color = { 194 18 19 }
     inland = yes
     outgoing = {
+        name = "etchedalm"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    202 203 204 205 208 209 210 218 223 224 225 226 227
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+etchedalm = {
+    location = 251
+    color = { 163 63 163 }
+    inland = yes
+    outgoing = {
         name = "katiichi"
         path = {
 
@@ -96,12 +136,56 @@ toshvann = {
     }
     members = {
         #Land Tiles
-	    207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227
+	    251 252 253 254 255 256 257 258 259 260 261 262
     }
     ai_will_propagate_through_trade = yes
 }
 
-tchutcha = {
+doshintcha = {
+    location = 276
+    color = { 236 85 88 }
+    outgoing = {
+        name = "telon-tchegur"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "katiichi"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "hauyuxalaam"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    274 275 276 277 278 279 280 281 282 283
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+hauyuxalaam = {
+    location = 857
+    color = { 251 226 189 }
+    outgoing = {
+        name = "hewekahmang"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    847 848 849 850 851 852 853 854 855 856 857 858 859 860 861 862 863
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+telon-tchegur = {
     location = 162
     color = { 255 130 0 }
     outgoing = {
@@ -124,10 +208,10 @@ tchutcha = {
     }
     members = {
         #Land Tiles
-	    155 156 157 158 159 160 161 162 233 234 235 236 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283
+        155 156 157 158 159 160 161 162 233 234 235 236 267 268 269 270 271 272 273
 
-	    #Sea Tiles
-	    301 302
+        #Sea Tiles
+        301 302
     }
     ai_will_propagate_through_trade = yes
 }
@@ -137,6 +221,22 @@ katiichi = {
     color = { 255 0 0 }
     inland = yes
     outgoing = {
+        name = "tuka"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    241 243 245 246 247 248 263 264 265 266
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+tuka = {
+    location = 171
+    color = { 255 166 211 }
+    outgoing = {
         name = "rastago"
         path = {
 
@@ -144,7 +244,28 @@ katiichi = {
     }
     members = {
         #Land Tiles
-    	168 169 170 171 177 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266
+        168 169 170 171 237 238 239 240 242 244 249 250
+
+        #Sea Tiles 
+
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+mirma = {
+    location = 182
+    color = { 227 189 46 }
+    outgoing = {
+        name = "arjagana"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        177 178 179 180 181 182 183 184 185 186 187
+
+        #Sea Tiles
     }
     ai_will_propagate_through_trade = yes
 }
@@ -158,12 +279,47 @@ arjagana = {
 
         }
     }
+    outgoing = {
+        name = "upper-oom"
+        path = {
+
+        }
+    }
     members = {
         #Land Tiles
-        124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 178 179 180 181 182 183 184 185 186 187
+	    124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144
 
-        #Sea Tiles
-        293 294 295 296 297 298 299 300
+	    #Sea Tiles
+	    293 294 295 296 297 298 299 300
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+lower-oom = {
+    location = 905
+    color = { 247 226 40 }
+    inland = yes
+    outgoing = {
+        name = "upper-oom"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    890 891 892 893 894 895 896 897 898 899 900 901 902 903 904 905 906
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+upper-oom = {
+    location = 881
+    color = { 234 166 162 }
+    inland = yes
+    end = yes
+    members = {
+        #Land Tiles
+	    878 879 880 881 882 883 884 885 886 887 888 889
     }
     ai_will_propagate_through_trade = yes
 }
@@ -179,10 +335,29 @@ rastago = {
     }
     members = {
         #Land Tiles
-        145 146 147 148 149 150 151 152 153 154 163 164 165 166 167 172 173 174 175 176
+    	145 146 147 148 149 150 151 152 153 154 163 164 165 166 167 172 173 174 175 176
 
         #Sea Tiles
 
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+onanin-sea = {
+    location = 88
+    color = { 159 160 221 }
+    outgoing = {
+        name = "cominol"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    53 54 55 56 57 58 59 60 80 81 82 83 84
+
+	    #Sea Tiles
+        88
     }
     ai_will_propagate_through_trade = yes
 }
@@ -204,7 +379,7 @@ meljikom = {
     }
     members = {
         #Land Tiles
-        27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52
+        30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52
 
         #Sea Tiles
         89 90 91
@@ -221,12 +396,176 @@ cominol = {
 
         }
     }
+    outgoing = {
+        name = "sokathii"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "kolettchi"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "lehmunjikom"
+        path = {
+
+        }
+    }
     members = {
         #Land Tiles
-        53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83
+        61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79
 
         #Sea Tiles
         87 88
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+sokathii = {
+    location = 780
+    color = { 1 143 123 }
+    outgoing = {
+        name = "kolettchi"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        464 465 780
+
+        #Sea Tiles
+        86 623
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+kolettchi = {
+    location = 688
+    color = { 255 107 27 }
+    outgoing = {
+        name = "allolic-gate"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+	    466 467 468 469 470 688 689 690 691 692 693 694 695
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+cheppa = {
+    location = 474
+    color = { 81 78 179 }
+    outgoing = {
+        name = "lehmunjikom"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "allolic-gate"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "tsekkan-channel"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "ven"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        471 472 473 474 475 476 477 498 499 500 501 502
+
+        #Sea Tiles
+
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+ven = {
+    location = 814
+    color = { 118 152 230 }
+    outgoing = {
+        name = "tsekkan-channel"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "tula"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "ule"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        812 813 814 815 816 817 818 819 820 821 822 823 824
+
+        #Sea Tiles
+
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+tula = {
+    location = 826
+    color = { 156 20 30 }
+    outgoing = {
+        name = "lehmunjikom"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "ule"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        801 802 803 804 805 806 807 808 809 810 811 825 826 827 828 829 830 831 832 833 834 835 836
+
+        #Sea Tiles
+    }
+    ai_will_propagate_through_trade = yes
+}
+
+ule = {
+    location = 840
+    color = { 91 215 228 }
+    outgoing = {
+        name = "lehmunjikom"
+        path = {
+
+        }
+    }
+    members = {
+       #Land Tiles
+        27 28 29 837 838 839 840 841 842 843 844 845 846
+
+        #Sea Tiles
+
     }
     ai_will_propagate_through_trade = yes
 }
@@ -261,7 +600,7 @@ allolic-gate = {
     }
     members = {
         #Land Tiles
-        464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 498 499 500 501 502 503 504 505 506
+	    478 479 480 481 482 483 484 485 486 487 488 489 490 491 503 505 506
 
         #Sea Tiles
         620
@@ -288,6 +627,31 @@ tsekkan-channel = {
     ai_will_propagate_through_trade = yes
 }
 
+nomong = {
+    location = 655
+    color = { 75 114 145 }
+    outgoing = {
+        name = "konoko"
+        path = {
+
+        }
+    }
+    outgoing = {
+        name = "hewekahmang"
+        path = {
+
+        }
+    }
+    members = {
+        #Land Tiles
+        641 642 653 654 655 656 657 658 659 660
+
+        #Sea Tiles
+
+    }
+    ai_will_propagate_through_trade = yes
+}
+
 konoko = {
     location = 667
     color = { 161 76 133 }
@@ -299,10 +663,10 @@ konoko = {
     }
     members = {
         #Land Tiles
-        661 662 663 664 665 666 667 668 669 670 671 672 673 678 679 680 681 682 683 684 685 686 687
+        661 662 663 664 665 666 667 668 669 670 671 672 673 679 680 681 682 683 684 685 686 687
 
         #Sea Tiles
-        674 675 676 677
+        674 675 676
     }
     ai_will_propagate_through_trade = yes
 }
@@ -318,10 +682,10 @@ hewekahmang = {
     }
     members = {
         #Land Tiles
-        633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660
+        633 634 635 636 637 638 639 640 643 644 645 646 647 648 649 650 651 652 678
 
         #Sea Tiles
-
+        677
     }
     ai_will_propagate_through_trade = yes
 }

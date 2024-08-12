@@ -405,7 +405,6 @@ draconic = {
 			"Halino" "Beheka" "Mayedda"
 		}	
 	}
-	}
 }
 
 milostran = {

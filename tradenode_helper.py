@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 import csv
 
 # [Options] may be useful for debugging
@@ -27,7 +28,7 @@ tradenode_map = {
     "Cominol": "cominol",
     "Arjagana": "arjagana",
     "Rastago": "rastago",
-    "Tchutcha": "tchutcha",
+    "Telon Tchegur": "telon-tchegur",
     "Katiichi": "katiichi",
     "Upper Travnann": "upper-travnann",
     "Toshvann": "toshvann",
@@ -37,6 +38,22 @@ tradenode_map = {
     "Luiin": "luiin",
     "Hewe Kahmang": "hewekahmang",
     "Konoko": "konoko",
+    "Oñanin Sea": "onanin-sea",
+    "Kolettchi": "kolettchi",
+    "Ulé": "ule",
+    "Ven": "ven",
+    "Tula": "tula",
+    "Cheppa": "cheppa",
+    "Mirma": "mirma",
+    "Upper Oom": "upper-oom",
+    "Lower Oom": "lower-oom",
+    "Harjann": "harjann",
+    "Etchedalm": "etchedalm",
+    "Tuka": "tuka",
+    "Doshintcha": "doshintcha",
+    "Hauyuxalaam": "hauyuxalaam",
+    "Nomong": "nomong",
+    "Sokathii": "sokathii"
 }
 
 # Note: Unlike most other scripts, simply running this script won't cut it.
@@ -58,12 +75,16 @@ def f_remove_accents(old):
     new = re.sub(r'[ìíîï]', 'i', new)
     new = re.sub(r'[òóôõö]', 'o', new)
     new = re.sub(r'[ùúûü]', 'u', new)
+    new = re.sub('ñ', 'n', new)
+    new = re.sub(' ','-', new)
     return new
 
 # [Logic] where the magic happens
 provnode_mapping = {}
 for tradenode in tradenode_map.values():
     provnode_mapping.update({tradenode: [[],[]]}) # [[land tiles], [sea tiles]]
+
+print(provnode_mapping)
 
 i = -1
 last_province = 0
