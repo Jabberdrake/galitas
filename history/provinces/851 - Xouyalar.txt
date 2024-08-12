@@ -1,8 +1,8 @@
 # 851 - Xouyalar
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U31
+controller = U31
+add_core = U31
 
 culture = laxaali
 religion = kuthchinama

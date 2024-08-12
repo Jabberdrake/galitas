@@ -1,8 +1,8 @@
 # 853 - Hauyuxaalam
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U30
+controller = U30
+add_core = U30
 
 culture = laxaali
 religion = kuthchinama

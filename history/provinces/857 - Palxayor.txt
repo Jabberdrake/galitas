@@ -1,8 +1,8 @@
 # 857 - Palxayor
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U27
+controller = U27
+add_core = U27
 
 culture = laxaali
 religion = kuthchinama
