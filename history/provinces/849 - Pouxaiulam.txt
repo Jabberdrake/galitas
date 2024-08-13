@@ -1,8 +1,8 @@
 # 849 - Pouxaiulam
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U32
+controller = U32
+add_core = U32
 
 culture = laxaali
 religion = kuthchinama

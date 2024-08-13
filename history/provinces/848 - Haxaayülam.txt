@@ -1,8 +1,8 @@
-# 848 - Haxaayülam
+# 848 - Haxaayï¿½lam
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U28
+controller = U28
+add_core = U28
 
 culture = laxaali
 religion = kuthchinama
