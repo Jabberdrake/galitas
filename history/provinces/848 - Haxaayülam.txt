@@ -1,4 +1,4 @@
-# 848 - Haxaayï¿½lam
+# 848 - Haxaayülam
 
 owner = U28
 controller = U28
