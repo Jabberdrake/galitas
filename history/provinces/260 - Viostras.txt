@@ -1,10 +1,10 @@
 # 260 - Viostras
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U34
+controller = U34
+add_core = U34
 
-culture = tukan
+culture = etnatchunn
 religion = kuthchinama
 capital = ""
 

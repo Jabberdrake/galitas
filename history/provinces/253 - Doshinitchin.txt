@@ -4,7 +4,7 @@ owner = U08
 controller = U08
 add_core = U08
 
-culture = tukan
+culture = etnatchunn
 religion = reformed_goatmother
 capital = ""
 

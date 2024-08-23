@@ -1,10 +1,10 @@
 # 256 - Tultaph
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U37
+controller = U37
+add_core = U37
 
-culture = tukan
+culture = etnatchunn
 religion = kuthchinama
 capital = ""
 

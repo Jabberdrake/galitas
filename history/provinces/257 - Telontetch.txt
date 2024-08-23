@@ -1,10 +1,10 @@
 # 257 - Telontetch
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U36
+controller = U36
+add_core = U36
 
-culture = tukan
+culture = etnatchunn
 religion = kuthchinama
 capital = ""
 

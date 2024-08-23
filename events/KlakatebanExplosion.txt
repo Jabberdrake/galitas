@@ -1,5 +1,6 @@
 namespace = galitas_klakateban_collapse
 
+#Collapse !!!
 country_event = {
     id = galitas_klakateban_collapse.1
     title = "gal_kktb_collapse.1.t"
@@ -8,31 +9,187 @@ country_event = {
         desc = "gal_kktb_collapse.1.d"
     }
     desc = {
-        trigger = { NOT = {tag = L07} }
-        desc = "gal_kktb_collapse.1.d.2"
+        trigger = { NOT = { tag = l07 } }
+        desc = "gal_kktb_collapse.2.d"
     }
     picture = ANGRY_MOB_eventPicture
 
     major = yes
     major_trigger = {
-        border_distance = {
-            who = L07
-            distance = 100
+        OR ={
+            border_distance = {
+                who = L07
+                distance = 100
             }
-    }
-    is_triggered_only = yes
-    trigger = {
-        AND = {
-            NOT = { has_country_flag = kktb_collapsed }
-            tag = L07
-            is_year = 1446
+            is_neighbor_of = L07
         }
     }
+    trigger = {
+        tag = L07
+        AND = {
+            is_year = 1446
+            NOT = { has_country_flag = kktb_collapsed }
+            NOT = { is_year = 1447 }
+        }
+    }
+    
+    fire_only_once = yes
+    mean_time_to_happen = {
+        month = 1
+    }
+
     immediate = {
         release_all_possible_countries = yes
         set_country_flag = kktb_collapsed
+        hidden_effect = {
+            disband_rebels = particularist_rebels
+            disband_rebels = noble_rebels
+            disband_rebels = pretender_rebels
+        }
     }
     option = {
-        name = kktb_collapse_opt
+        name = "kktb_coll.1"
+        switch_tag = L38
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L37
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L40
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L41
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L42
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L43
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L44
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L45
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L46
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L49
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L50
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L09
+    }
+    option = {
+        name = "kktb_coll.2"
+        country_event = { id = galitas_klakateban_collapse.2 }
+    }
+}
+
+#central kktba options!!
+country_event = {
+    id = galitas_klakateban_collapse.2
+    title = "gal_kktb_collapse.1.t"
+    desc = "gal_kktb_collapse.2.d"
+    picture = BORDER_TENSION_eventPicture
+
+    fire_only_once = yes
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L20
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L28
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L29
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L30
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L31
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L32
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L33
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L35
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L50
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L48
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L51
+    }
+    option = {
+        name = "kktb_coll.2"
+        country_event = { id = galitas_klakateban_collapse.3 }
+    }
+}
+
+#southern kktba options!!
+country_event = {
+    id = galitas_klakateban_collapse.3
+    title = "gal_kktb_collapse.1.t"
+    desc = "gal_kktb_collapse.3.d"
+    picture = NATIVES_eventPicture
+
+    fire_only_once = yes
+
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L12
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L13
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L14
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L15
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L47
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L52
     }
 }

@@ -1,10 +1,10 @@
 # 261 - Nanntichi
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U35
+controller = U35
+add_core = U35
 
-culture = tukan
+culture = etnatchunn
 religion = kuthchinama
 capital = ""
 
