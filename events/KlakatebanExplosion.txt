@@ -1,0 +1,38 @@
+namespace = galitas_klakateban_collapse
+
+country_event = {
+    id = galitas_klakateban_collapse.1
+    title = "gal_kktb_collapse.1.t"
+    desc = {
+        trigger = { tag = L07 }
+        desc = "gal_kktb_collapse.1.d"
+    }
+    desc = {
+        trigger = { NOT = {tag = L07} }
+        desc = "gal_kktb_collapse.1.d.2"
+    }
+    picture = ANGRY_MOB_eventPicture
+
+    major = yes
+    major_trigger = {
+        border_distance = {
+            who = L07
+            distance = 100
+            }
+    }
+    is_triggered_only = yes
+    trigger = {
+        AND = {
+            NOT = { has_country_flag = kktb_collapsed }
+            tag = L07
+            is_year = 1446
+        }
+    }
+    immediate = {
+        release_all_possible_countries = yes
+        set_country_flag = kktb_collapsed
+    }
+    option = {
+        name = kktb_collapse_opt
+    }
+}
