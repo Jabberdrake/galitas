@@ -1,8 +1,8 @@
 # 267 - Telon Tcha
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U33
+controller = U33
+add_core = U33
 
 culture = motchatchii
 religion = kuthchinama
