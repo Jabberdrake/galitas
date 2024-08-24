@@ -3,7 +3,7 @@ add_government_reform = feudal_france_reform
 primary_culture = loui
 religion = abotsu
 technology_group = eastern
-capital = 589 # Gexui
+capital = 592 # Koulve
 national_focus = DIP
 
 change_estate_land_share = {

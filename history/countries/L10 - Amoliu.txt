@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = loui
-religion = catholic
+religion = abotsu
 technology_group = eastern
 capital = 509 # Jérinne
 national_focus = DIP
