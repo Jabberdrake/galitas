@@ -1,5 +1,5 @@
-government = monarchy
-add_government_reform = feudal_france_reform
+government = tribal
+add_government_reform = tribal_kingdom
 primary_culture = motchatchii
 religion = kuthchinama
 technology_group = western
