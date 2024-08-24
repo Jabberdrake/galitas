@@ -1,9 +1,10 @@
-government = monarchy
+government = republic
 add_government_reform = feudal_france_reform
-primary_culture = loui
+primary_culture = erait
 religion = abotsu
+add_accepted_culture = ajuri
 technology_group = eastern
-capital = 589 # Gexui
+capital = 557 # Liudjayañ
 national_focus = DIP
 
 change_estate_land_share = {

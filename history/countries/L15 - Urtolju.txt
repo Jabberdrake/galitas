@@ -1,8 +1,8 @@
 government = republic
 add_government_reform = feudal_france_reform
-primary_culture = loui
-religion = catholic
-add_accepted_culture = ajuri
+primary_culture = ajuri
+religion = abotsu
+add_accepted_culture = loui
 technology_group = eastern
 capital = 584 # Luirtai
 national_focus = DIP

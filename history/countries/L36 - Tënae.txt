@@ -1,4 +1,4 @@
-government = monarchy
+government = theocracy
 add_government_reform = feudal_france_reform
 primary_culture = central_xi
 add_accepted_culture = capital_xi
@@ -9,11 +9,11 @@ national_focus = DIP
 
 change_estate_land_share = {
 	estate = estate_nobles
-	share = 10
+	share = -5
 }
 change_estate_land_share = {
 	estate = estate_church
-	share = -5
+	share = 20
 }
 change_estate_land_share = {
 	estate = estate_burghers

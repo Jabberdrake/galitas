@@ -42,6 +42,8 @@ country_event = {
         release_all_possible_countries = yes
         set_country_flag = kktb_collapsed
         hidden_effect = {
+            playsound = age_of_absolutism
+            release = L39
             disband_rebels = particularist_rebels
             disband_rebels = noble_rebels
             disband_rebels = pretender_rebels
@@ -49,11 +51,19 @@ country_event = {
     }
     option = {
         name = "kktb_coll.1"
-        switch_tag = L38
+        switch_tag = L36
     }
     option = {
         name = "kktb_coll.1"
         switch_tag = L37
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L38
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L39
     }
     option = {
         name = "kktb_coll.1"
@@ -115,6 +125,18 @@ country_event = {
     }
     option = {
         name = "kktb_coll.1"
+        switch_tag = L24
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L25
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L26
+    }
+    option = {
+        name = "kktb_coll.1"
         switch_tag = L28
     }
     option = {
@@ -170,6 +192,10 @@ country_event = {
 
     option = {
         name = "kktb_coll.1"
+        switch_tag = L11
+    }
+    option = {
+        name = "kktb_coll.1"
         switch_tag = L12
     }
     option = {
@@ -183,6 +209,30 @@ country_event = {
     option = {
         name = "kktb_coll.1"
         switch_tag = L15
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L17
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L18
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L19
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L21
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L22
+    }
+    option = {
+        name = "kktb_coll.1"
+        switch_tag = L23
     }
     option = {
         name = "kktb_coll.1"
