@@ -703,6 +703,27 @@ Tchutchin-Sea  = {
 Laxalii-Coast  = {
 	872 873 874 875
 }
+High-Oomish-Basin  = {
+	878 879 880 881 882
+}
+Low-Oomish-Basin  = {
+	883 884 885 886
+}
+Outer-Kewenii-plateau  = {
+	887 888 889 890 891
+}
+Travnaan-Headwaters  = {
+	892 893 894 895
+}
+Misty-Slope  = {
+	896 897 898 899
+}
+Sachin-Corridor  = {
+	900 901 902
+}
+Lower-Oom = {
+	903 904 905 906
+}
 ########################################
 # Base Game							   #
 ########################################
