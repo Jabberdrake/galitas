@@ -3,7 +3,6 @@
 owner = L07
 controller = L07
 add_core = L08
-add_core = L16
 
 culture = bulsai
 religion = abotsuxiok

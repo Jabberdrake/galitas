@@ -1,8 +1,8 @@
 # 637 - Nahang
 
-owner = H00
-controller = H00
-add_core = H00
+owner = nan
+controller = nan
+add_core = nan
 
 culture = kahmaniol
 religion = laioli-folk-religion
