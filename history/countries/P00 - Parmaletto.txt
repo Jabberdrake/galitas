@@ -24,16 +24,16 @@ change_estate_land_share = {
 
 1422.10.22 = {
 	monarch = {
-		name = "Charles VII"
-		dynasty = "de Valois"
+		name = "Alirehe"
+		dynasty = "Halino"
 		birth_date = 1403.2.22
 		adm = 4
 		dip = 2
 		mil = 4
 	}
 	queen = {
-        name = "Marie"
-        dynasty = "d'Anjou"
+        name = "Karelio"
+        dynasty = "Loleggo"
         birth_date = 1404.10.14
         death_date = 1463.11.29
         female = yes
@@ -45,9 +45,9 @@ change_estate_land_share = {
 
 1423.7.3 = {
 	heir = {
-		name = "Louis"
-		monarch_name = "Louis XI"
-		dynasty = "de Valois"
+		name = "OLarohe"
+		monarch_name = "Halino"
+		dynasty = "Halino"
 		birth_date = 1423.7.3
 		death_date = 1483.8.30
 		claim = 95

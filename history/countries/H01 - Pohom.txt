@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudal_france_reform
 primary_culture = kahmaniol
-religion = laiolí-folk-religion
+religion = laioli-folk-religion
 technology_group = western
 capital = 649 # Podon
 national_focus = DIP

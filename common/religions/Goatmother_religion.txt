@@ -17,7 +17,7 @@ flags_with_emblem_percentage = 33
         flag_emblem_index_range = { 28 28 }
         reformed_goatmother = {
                 icon = 18
-                color = { 231 171 50 }
+                color = { 133 31 2 }
                 country = {
                         tolerance_own = 2
                         advisor_pool = 1
@@ -25,6 +25,6 @@ flags_with_emblem_percentage = 33
                 province = {
                         local_missionary_strength = 0.8
                 }
-                heretic = { MISOGINITE CAPARIST }
+                heretic = { MISOGINITE CAPadARIST }
         }
 }
