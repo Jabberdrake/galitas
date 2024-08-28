@@ -5,21 +5,24 @@ namespace = Flavour_KKTB
 #Avalanche
 province_event = {
     id = Flavour_KKTB.1
-    title = Flavour_KKTB.1.t
-    desc = Flavour_KKTB.1.d
-    picture = SIERRA_DE_LA_PLATA_eventPicture
+    title = "Flavour_KKTB.1.t"
+    desc = "Flavour_KKTB.1.d"
+    picture = FARMING_eventPicture
 
+    fire_only_once = yes
     is_triggered_only_ = yes
+
+    mean_time_to_happen = {
+        month = 420
+    }
+    
     trigger = {
         has_terrain = mountain
+        is_year = 1446
     }
 
     option = {
         name = "Flavour_KKTB.op"
-        modifier = {
-            factor = 0.8
-            local_production_efficiency = 0.1
-        }
-        
+        set_base_production = -1
     }
 }

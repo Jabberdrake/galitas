@@ -47,7 +47,7 @@ country_event = {
             disband_rebels = particularist_rebels
             disband_rebels = noble_rebels
             disband_rebels = pretender_rebels
-            switch_tag = L08
+            change_tag = L08
         }
     }
     option = {
@@ -120,6 +120,10 @@ country_event = {
     picture = BORDER_TENSION_eventPicture
 
     fire_only_once = yes
+    trigger = {
+        has_country_flag = kktb_collapsed
+    }
+
     option = {
         name = "kktb_coll.1"
         switch_tag = L20
@@ -190,6 +194,9 @@ country_event = {
     picture = NATIVES_eventPicture
 
     fire_only_once = yes
+    trigger = {
+        has_country_flag = kktb_collapsed
+    }
 
     option = {
         name = "kktb_coll.1"
