@@ -47,7 +47,6 @@ country_event = {
             disband_rebels = particularist_rebels
             disband_rebels = noble_rebels
             disband_rebels = pretender_rebels
-            change_tag = L08
         }
     }
     option = {

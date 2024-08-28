@@ -53,7 +53,8 @@ tradenode_map = {
     "Doshintcha": "doshintcha",
     "Hauyuxalaam": "hauyuxalaam",
     "Nomong": "nomong",
-    "Sokathii": "sokathii"
+    "Sokathii": "sokathii",
+    "Djulia": "djulia"
 }
 
 # Note: Unlike most other scripts, simply running this script won't cut it.
