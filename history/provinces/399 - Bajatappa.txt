@@ -1,8 +1,8 @@
 # 399 - Bajatappa
 
-owner = nan
-controller = nan
-add_core = nan
+owner = L53
+controller = L53
+add_core = L53
 
 culture = nan
 religion = nan
