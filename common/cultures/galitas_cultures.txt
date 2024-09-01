@@ -10,7 +10,7 @@ parmaletta = {
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella"
 		}	
 	}
 	paraikellettino = {
