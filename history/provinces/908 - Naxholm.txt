@@ -1,8 +1,8 @@
 # 908 - Naxholm
 
-owner = nan
-controller = nan
-add_core = nan
+owner = H03
+controller = H03
+add_core = H03
 
 culture = naaxish
 religion = nan
