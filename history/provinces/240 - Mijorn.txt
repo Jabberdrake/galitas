@@ -1,8 +1,8 @@
 # 240 - Mijorn
 
-owner = U08
-controller = U08
-add_core = U08
+owner = U44
+controller = U44
+add_core = U44
 
 culture = katiichard
 religion = reformed_goatmother
