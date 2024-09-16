@@ -1,10 +1,10 @@
-# 399 - Bajatappa
+# 928 - Freaky
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = nan
+culture = naaxish
 religion = nan
 capital = ""
 
@@ -14,7 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-trade_goods = tropical_wood
+trade_goods = nan
 
 is_city = yes
 fort_15th = no
