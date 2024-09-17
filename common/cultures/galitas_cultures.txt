@@ -2,85 +2,85 @@ parmaletta = {
 	prozoan = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Behannekko" "Mayedda" "Madella"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 	paraikellettino = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 	parmakaropino = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 	rastagan = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 	madellan = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 	lolettan = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Alihe" "Oheppe" "Akaline" "Lotte" "Parehe" "Tollene" "Aleppate"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Rahalio" "Komino" "Boheddo" "Lojita" "Ureno" "Kaliro"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Halino" "Behannekko" "Mayedda" "Madella" "Behanekko" "Harenetto" "Mayedda" "Peratteha"
 		}	
 	}
 }

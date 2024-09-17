@@ -45,7 +45,7 @@ change_estate_land_share = {
 
 1423.7.3 = {
 	heir = {
-		name = "OLarohe"
+		name = "Olarohe"
 		monarch_name = "Halino"
 		dynasty = "Halino"
 		birth_date = 1423.7.3
