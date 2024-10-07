@@ -599,6 +599,20 @@ massra = {
 			"Halino" "Beheka" "Mayedda"
 		}	
 	}
+	karajanii = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
 }
 
 Klakteban = {
@@ -946,6 +960,65 @@ midstoedine = {
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
 			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+	kuruli = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 
+			"Alihe" "Oheppe" "Akaline"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3
+			"Rahalio" "Komino" "Boheddo"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"Halino" "Beheka" "Mayedda"
+		}	
+	}
+}
+
+ket = {
+	dotchii = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
+			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"se Raevenna" "se Liornes" "se Aracelas"
+		}	
+	}
+	fivette = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
+			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"se Raevenna" "se Liornes" "se Aracelas"
+		}	
+	}
+	posselin = {
+		male_names = {
+			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
+			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"
+		}
+		female_names = {
+			FemaleName1 FemaleName2 FemaleName3 FemaleName4 FemaleName5
+			"Riane" "Leara" "Adra" "Sella" "Eira"
+		}
+		dynasty_names = {
+			DynastyName1 DynastyName2 DynastyName3
+			"se Raevenna" "se Liornes" "se Aracelas"
 		}	
 	}
 }
