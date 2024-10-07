@@ -1,10 +1,10 @@
-# 956 - Fiviettche-3
+# 967 - Fiviettche-14
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = dotchii
+culture = fivette
 religion = communal_occulist
 capital = ""
 

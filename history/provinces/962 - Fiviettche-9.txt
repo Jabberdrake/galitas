@@ -4,7 +4,7 @@ owner = nan
 controller = nan
 add_core = nan
 
-culture = dotchen
+culture = fivette
 religion = communal_occulist
 capital = ""
 
