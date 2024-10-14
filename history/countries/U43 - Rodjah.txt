@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = kingdom
-primary_culture = oomish
+primary_culture = drosvagan
 religion = black_mountain_songs
 technology_group = western
-capital = 268 # Maritchen
+capital = 176 # Rastaga Jakol
 national_focus = DIP
 
 change_estate_land_share = {

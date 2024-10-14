@@ -1,8 +1,8 @@
 # 906 - Oom29
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U45
+controller = U45
+add_core = U45
 
 culture = oomish
 religion = black_mountain_songs
