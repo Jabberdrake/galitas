@@ -1,3 +1,4 @@
 descriptor.mod 
 .DS_Store
+__pycache__
 tradenode_helper_result.txt
