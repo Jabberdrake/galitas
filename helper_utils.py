@@ -259,26 +259,5 @@ def get_area(area_name, region_name, superregion_name, continent_name):
         if area_name == area.iname:
             return area
     raise UnknownAreaException(f"'{area_name}' does not match a known area!")
-
-def get_or_create_continent(continent_name):
-    try:
-        continent = get_continent(continent_name)
-    except UnknownContinentException as e:
-        continent = Continent(plain(continent_name), continent_name)
-        helper_data.CONTINENTS.append(continent)
-
-    return continent
     
-def get_or_create_superregion(superregion_name, continent_name):
-    try:
-        superregion = get_superregion(superregion_name, continent_name)
-    except UnknownSuperregionException as e:
-        superregion = Superregion(plain(superregion_name), superregion_name)
-        continent = get_continent(continent_name)
-        continent.add_superregion(superregion)
-    
-    return superregion
-
-    
-
 ###
