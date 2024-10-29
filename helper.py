@@ -39,7 +39,7 @@ def find_last_province(dataframe):
         except KeyError as error:
             return error.args[0]
 
-def update_definition_file(dataframe, last_province):
+def rebuild_definition_file(dataframe, last_province):
     with open('map/definition.csv', 'w', encoding='UTF-8', newline='') as definition_file:
         writer = csv.writer(definition_file)
         writer.writerow(["province", "red", "green", "blue", "x", "x"])
@@ -61,7 +61,7 @@ def update_definition_file(dataframe, last_province):
     definition.write(newtext)
     definition.close()
 
-def update_province_history(dataframe, args):
+def reload_province_history(dataframe, args):
 
     # Note: for the purposes of running this script, you do NOT need to worry about filling out the following columns in the almanac:
     #        - Area
@@ -214,7 +214,7 @@ def update_province_history(dataframe, args):
                         for tech_group in tech_groups:
                             history.write("discovered_by = " + tech_group + "\n")
 
-def update_province_loca():
+def reload_province_loca():
     with open('localisation/replace/prov_names_l_english.yml', 'w', encoding='UTF-8-sig') as loca:
         with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
             loca.write('l_english:\n')
@@ -233,17 +233,17 @@ def update_provinces(args):
     last_province = find_last_province(almanac)
     print_verbose(args.verbose, "Highest province ID in loaded almanac is " + str(last_province) + "!")
 
-    print_verbose(args.verbose, "Updating 'definition.csv' file...")
-    update_definition_file(almanac, last_province)
-    print_verbose(args.verbose, "Successfully updated 'definition.csv'!")
+    print_verbose(args.verbose, "Rebuilding 'definition.csv' file...")
+    rebuild_definition_file(almanac, last_province)
+    print_verbose(args.verbose, "Successfully rebuilt 'definition.csv'!")
 
-    print_verbose(args.verbose, "Updating province history files...")
-    update_province_history(almanac, args)
-    print_verbose(args.verbose, "Successfully updated all province history files!")
+    print_verbose(args.verbose, "Reloading province history files...")
+    reload_province_history(almanac, args)
+    print_verbose(args.verbose, "Successfully reloaded all province history files!")
 
-    print_verbose(args.verbose, "Updating localization files for provinces...")
-    update_province_loca() #Currently draws province names from 'definition.csv', not the almanac.
-    print_verbose(args.verbose, "Successfully updated all localization files for provinces!")
+    print_verbose(args.verbose, "Reloaded localization files for provinces...")
+    reload_province_loca() #Currently draws province names from 'definition.csv', not the almanac.
+    print_verbose(args.verbose, "Successfully reloaded all localization files for provinces!")
 
     print_info("Successfully updated all provinces!\n")
 
@@ -257,8 +257,9 @@ def main():
     )
 
     parser.add_argument("-h", "--help", action="store_true", help="Displays the help menu. The one you're reading right now.")
-    parser.add_argument("-v", "--verbose", action="store_true", help="Enables verbose mode. Very useful for debugging!")
+    parser.add_argument("-v", "--verbose", action="store_true", help="Enables 'verbose' mode, which prints more information throughout operations. Very useful for debugging!")
     parser.add_argument("-i", "--intro", action="store_true", help="Lists some introductory information, along with some common use cases. Consider using this flag if you're a bit lost!")
+    parser.add_argument("-m",  "--multi", action="store_true", help="Enables 'multi' mode, which prevents the program from exiting after doing an operation.")
 
     args = parser.parse_args()
 
@@ -275,21 +276,52 @@ def main():
         if args.intro:
             print_intro()
         if args.verbose:
-            print_verbose(args.verbose, "Verbose mode is now enabled!\n")
+            print_verbose(args.verbose, "Verbose mode is now enabled!")
+        if args.multi:
+            print_verbose(args.verbose, "Multi mode is now enabled!")
+        print('\n')
 
-    while True:
+    repeat_flag = True
+    while repeat_flag:
+        # If multi mode is not enabled, quit after one operation
+        if args.multi == False:
+            repeat_flag = False
+
+        # Allow user to select operation
         mode = inquirer.select(
             message="Select one of the following operations:",
             choices=[
                 "Update provinces",
+                "Reload province history",
+                "Reload province localization",
                 "Check script data", 
                 "Exit"
             ]
         ).execute()
 
+        # Do operation
         match mode:
             case "Update provinces":
                 update_provinces(args)
+            case "Reload province history":
+                # Load the almanac
+                print_verbose(args.verbose, "Loading almanac...")
+                almanac = load_almanac()
+                print_verbose(args.verbose, "Loaded almanac '" + data["ALMANAC_NAME"] + "'!")
+
+                # Update province history files
+                print_verbose(args.verbose, "Reloading province history files...")
+                reload_province_history(almanac, args)
+
+                # Print success message
+                print_info("Successfully reloaded all province history files!\n")
+            case "Reload province localization":
+                # Update province loca file
+                print_verbose(args.verbose, "Reloading localization files for provinces...")
+                reload_province_loca() #Currently draws province names from 'definition.csv', not the almanac.
+
+                # Print success message
+                print_info("Successfully reloading all localization files for provinces!\n")
             case "Check script data":
                 print_data(data, args)
             case "Exit":
