@@ -1,6 +1,7 @@
 """This module contains some shared utility functions."""
 
 import re
+import helper_data
 
 ### TEXT FORMATTING ###
 def bold(string):
@@ -24,6 +25,9 @@ def teal(string):
 def purple(string):
     return colored(string, "#d8bbfa")
 
+def red(string):
+    return colored(string, "#cc5c46")
+
 def plain(old):
     """
     Removes common accent characters, lower form.
@@ -35,6 +39,8 @@ def plain(old):
     new = re.sub(r'[ìíîï]', 'i', new)
     new = re.sub(r'[òóôõö]', 'o', new)
     new = re.sub(r'[ùúûü]', 'u', new)
+    new = re.sub(r'[\'\"]', '', new)
+    new = re.sub(r'[ \t]', "_", new)
     return new
 
 ###
@@ -49,6 +55,10 @@ def print_verbose(verbose, string):
 # Formats and prints a given string to denote it as INFO logging.
 def print_info(string):
     print(brass(bold('>>')) + " " + string)
+
+# Formats and prints a given string to denote it as ERROR logging.
+def print_error(string):
+    print(red(bold('>>')) + " " + string)
 
 ### MENUS AND DISPLAYS ###
 
@@ -85,21 +95,190 @@ def print_intro():
 
     print()
 
-def print_data(data, args):
+def print_data(args):
     print()
     print_info("Global flags:")
     print("\t" + brass("★ ") + "Verbose mode: " + purple("Enabled" if args.verbose else "Disabled"))
     print()
 
     print_info("Almanac info:")
-    print("\t" + brass("★ ") + "Document name: " + purple(data["ALMANAC_NAME"]))
-    print("\t" + brass("★ ") + "Document id: " + purple(data["ALMANAC_ID"]))
-    print("\t" + brass("★ ") + "Target sheet: " + purple(data["PROVS_SHEET"]))
+    print("\t" + brass("★ ") + "Document name: " + purple(helper_data.ALMANAC_NAME))
+    print("\t" + brass("★ ") + "Document id: " + purple(helper_data.ALMANAC_ID))
+    print("\t" + brass("★ ") + "Target sheet: " + purple(helper_data.PROVS_SHEET))
     print()
 
     print_info("Map processing settings:")
-    print("\t" + brass("★ ") + "Lowest ID for temporary wasteland: " + purple(data["FIRST_TEMP_WASTELAND"]))
-    print("\t" + brass("★ ") + "Max provinces: " + purple(data["MAX_PROVINCES"]))
+    print("\t" + brass("★ ") + "Lowest ID for temporary wasteland: " + purple(helper_data.FIRST_TEMP_WASTELAND))
+    print("\t" + brass("★ ") + "Max provinces: " + purple(helper_data.MAX_PROVINCES))
     print()
+
+###
+
+### CLASSES ###
+
+class Area:
+    def __init__(self, internal_name, localized_name, region):
+        self.iname = internal_name
+        self.lname = localized_name
+        self.region = region
+        self.visible_by = []
+        self.provinces = []
+
+    def __str__(self):
+        aux = ",".join([str(id) for id in self.provinces])
+        return f"{self.iname}<{self.region.iname}>({aux})"
+    
+    def __eq__(self, other):
+        if isinstance(other, Area):
+            return self.iname == other.iname and self.region == other.region
+        return False
+    
+    def add_province(self, province):
+        self.provinces.append(province)
+    
+    def add_visible_by(self, techgroup):
+        self.visible_by.append(techgroup)
+
+class Region:
+    def __init__(self, internal_name, localized_name, superregion):
+        self.iname = internal_name
+        self.lname = localized_name
+        self.superregion = superregion
+        self.areas = []
+
+    def __str__(self):
+        aux = ",".join([area.iname for area in self.areas])
+        return f"{self.iname}<{self.superregion.iname}>({aux})"
+    
+    def __eq__(self, other):
+        if isinstance(other, Region):
+            return self.iname == other.iname and self.superregion == other.superregion
+        return False
+
+    def add_area(self, area):
+        self.areas.append(area)
+
+class Superregion:
+    def __init__(self, internal_name, localized_name, continent):
+        self.iname = internal_name
+        self.lname = localized_name
+        self.continent = continent
+        self.regions = []
+    
+    def __str__(self):
+        aux = ",".join([region.iname for region in self.regions])
+        return f"{self.iname}<{self.continent.iname}>({aux})"
+    
+    def __eq__(self, other):
+        if isinstance(other, Superregion):
+            return self.iname == other.iname and self.continent == other.continent
+        return False
+
+    def add_region(self, region):
+        self.regions.append(region)
+
+class Continent:
+    def __init__(self, internal_name, localized_name):
+        self.iname = internal_name
+        self.lname = localized_name
+        self.superregions = []
+
+    def __str__(self):
+        aux = ",".join([sregion.iname for sregion in self.superregions])
+        return f"{self.iname}({aux})"
+    
+    def __eq__(self, other):
+        if isinstance(other, Continent):
+            return self.iname == other.iname
+        return False
+
+    def add_superregion(self, superregion):
+        self.superregions.append(superregion)
+
+class InternalHelperException(Exception):
+    """Raised (and hopefully caught) within the Helper script whenever a fatal error occurs during execution."""
+
+    def __init__(self, message):
+        super().__init__(message)
+
+class UnknownAreaException(Exception):
+    """Raised if nothing is returned in a 'get_area()' call."""
+
+    def __init__(self, message):
+        super().__init__(message)
+
+class UnknownRegionException(Exception):
+    """Raised if nothing is returned in a 'get_region()' call."""
+
+    def __init__(self, message):
+        super().__init__(message)
+
+class UnknownSuperregionException(Exception):
+    """Raised if nothing is returned in a 'get_superregion()' call."""
+
+    def __init__(self, message):
+        super().__init__(message)
+
+class UnknownContinentException(Exception):
+    """Raised if nothing is returned in a 'get_continent()' call."""
+
+    def __init__(self, message):
+        super().__init__(message)
+
+def get_continent(continent_name):
+    continent_name = plain(continent_name)
+
+    for continent in helper_data.CONTINENTS:
+        if continent_name == continent.iname:
+            return continent
+    raise UnknownContinentException(f"'{continent_name}' does not match a known continent!")
+        
+def get_superregion(superregion_name, continent_name):
+    continent = get_continent(continent_name)
+    superregion_name = plain(superregion_name)
+
+    for superregion in continent.superregions:
+        if superregion_name == superregion.iname:
+            return superregion
+    raise UnknownSuperregionException(f"'{superregion_name}' does not match a known superregion!")
+        
+def get_region(region_name, superregion_name, continent_name):
+    superregion = get_superregion(superregion_name, continent_name)
+    region_name = plain(region_name)
+
+    for region in superregion.regions:
+        if region_name == region.iname:
+            return region
+    raise UnknownRegionException(f"'{region_name}' does not match a known region!")
+        
+def get_area(area_name, region_name, superregion_name, continent_name):
+    region = get_region(region_name, superregion_name, continent_name)
+    area_name = plain(area_name)
+
+    for area in region.areas:
+        if area_name == area.iname:
+            return area
+    raise UnknownAreaException(f"'{area_name}' does not match a known area!")
+
+def get_or_create_continent(continent_name):
+    try:
+        continent = get_continent(continent_name)
+    except UnknownContinentException as e:
+        continent = Continent(plain(continent_name), continent_name)
+        helper_data.CONTINENTS.append(continent)
+
+    return continent
+    
+def get_or_create_superregion(superregion_name, continent_name):
+    try:
+        superregion = get_superregion(superregion_name, continent_name)
+    except UnknownSuperregionException as e:
+        superregion = Superregion(plain(superregion_name), superregion_name)
+        continent = get_continent(continent_name)
+        continent.add_superregion(superregion)
+    
+    return superregion
+
+    
 
 ###
