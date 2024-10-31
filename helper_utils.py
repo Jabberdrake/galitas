@@ -114,6 +114,13 @@ def print_data(args):
 
 ###
 
+### MISC UTILS ###
+
+def is_seatile(tiletype):
+    return tiletype == "Inland Sea Tile" or tiletype == "Open Sea Tile" or tiletype == "Coastal Sea Tile"
+
+###
+
 ### CLASSES ###
 
 class Area:

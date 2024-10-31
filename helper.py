@@ -13,6 +13,7 @@ from InquirerPy import inquirer
 from helper_utils import plain, brass, blue, teal, purple, red                  # Text formatting
 from helper_utils import print_info, print_verbose, print_error                 # Logging functions
 from helper_utils import print_art, print_help, print_intro, print_data         # Menus and Displays
+from helper_utils import is_seatile
 from helper_utils import Area, Region, Superregion, Continent
 from helper_utils import get_area, get_region, get_superregion, get_continent
 from helper_utils import InternalHelperException, UnknownAreaException, UnknownRegionException, UnknownSuperregionException, UnknownContinentException
@@ -40,7 +41,7 @@ def build_tiletrees(dataframe, last_province, args):
     regions = []
     superregions = []
 
-    illegal_namelist = ["nan", "?", "debug", "test", "freaky", "freakistan"]
+    illegal_namelist = ["nan", "?", "-", "debug", "test", "freaky", "freakistan"]
 
     with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
         for line in definition.readlines():
@@ -51,6 +52,10 @@ def build_tiletrees(dataframe, last_province, args):
                 provID = int(line_arr[0])
                 if provID > last_province:
                     return
+                
+                tiletype = dataframe.at[provID-1, 'type']
+                if tiletype == "Indev" or tiletype == "Lake":
+                    pass
                 if args.verbose and provID % 50 == 0:
                     print_verbose(args.verbose, "Processing province no. " + str(provID) + "...")
                 
@@ -76,7 +81,10 @@ def build_tiletrees(dataframe, last_province, args):
                     raise InternalHelperException("FATAL")
 
                 # Processing continent name
-                continent_lname = str(dataframe.at[provID-1, 'continent'])
+                if is_seatile(tiletype): # In EU4, sea tiles do not have an associated continent. To cope with that, we're going to make a dummy continent, 'seatiles', and keep an eye out for it whenever we write the continent.txt file.
+                    continent_lname = "seatiles"
+                else:
+                    continent_lname = str(dataframe.at[provID-1, 'continent'])
                 continent_iname = plain(continent_lname)
                 if continent_iname in illegal_namelist:
                     print_error(f"Invalid continent name ({red(continent_lname)}) found for province no. {purple(str(provID))}. Quitting!\n")
