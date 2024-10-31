@@ -169,7 +169,7 @@ type={
 		name="Seagulls_zansibar"
 		hidden_on_start=no
 		position={
-			4663.000 11.000 507.000 
+			4608.000 11.000 507.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -179,7 +179,7 @@ type={
 		name="INFANTRY"
 		hidden_on_start=no
 		position={
-			5073.000 11.000 53.000 
+			4608.000 11.000 53.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -189,7 +189,7 @@ type={
 		name="INFANTRY"
 		hidden_on_start=no
 		position={
-			5540.000 11.000 131.000 
+			4608.000 11.000 131.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -409,7 +409,7 @@ type={
 		name="Seagulls_zansibar"
 		hidden_on_start=no
 		position={
-			5012.000 11.000 1263.000 
+			4608.000 11.000 1263.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -419,7 +419,7 @@ type={
 		name="Seagulls_taiwan"
 		hidden_on_start=no
 		position={
-			4678.000 11.000 1062.000 
+			4608.000 11.000 1062.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -429,7 +429,7 @@ type={
 		name="Seagulls_South_korea"
 		hidden_on_start=no
 		position={
-			4825.000 11.000 1214.000 
+			4608.000 11.000 1214.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -439,7 +439,7 @@ type={
 		name="Seagulls_Japan"
 		hidden_on_start=no
 		position={
-			4954.000 11.000 1211.000 
+			4608.000 11.000 1211.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -673,7 +673,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4647.000 0.100 1149.000 
+			4608.000 0.100 1149.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -683,7 +683,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4517.000 0.100 1136.000 
+			4608.000 0.100 1136.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -693,7 +693,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4864.000 0.200 1543.000 
+			4608.000 0.200 1543.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -719,7 +719,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5046.000 0.200 220.000 
+			4608.000 0.200 220.000 
 		}
 		rotation={
 			0.000 60.000 0.000 
@@ -729,7 +729,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4706.000 0.100 158.000 
+			4608.000 0.100 158.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -739,7 +739,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4689.000 0.100 278.000 
+			4608.000 0.100 278.000 
 		}
 		rotation={
 			0.000 80.000 0.000 
@@ -749,7 +749,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4996.000 0.100 148.000 
+			4608.000 0.100 148.000 
 		}
 		rotation={
 			0.000 -40.000 0.000 
@@ -759,7 +759,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5094.000 0.100 302.000 
+			4608.000 0.100 302.000 
 		}
 		rotation={
 			0.000 -40.000 0.000 
@@ -769,7 +769,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4950.000 0.100 277.000 
+			4608.000 0.100 277.000 
 		}
 		rotation={
 			0.000 60.000 0.000 
@@ -1343,7 +1343,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5121.000 0.100 1610.000 
+			4608.000 0.100 1610.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
@@ -1353,7 +1353,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5413.000 0.100 1548.000 
+			4608.000 0.100 1548.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
@@ -2158,7 +2158,7 @@ type={
 		name="frame_top_left_entity99"
 		hidden_on_start=no
 		position={
-			5532.000 18.000 2046.000 
+			4608.000 18.000 2046.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
@@ -2203,7 +2203,7 @@ type={
 		name="frame_top_left_entity"
 		hidden_on_start=no
 		position={
-			5020.000 18.000 2046.000 
+			4608.000 18.000 2046.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
@@ -2323,7 +2323,7 @@ type={
 		name="frame_top_left_entity"
 		hidden_on_start=no
 		position={
-			5120.000 18.000 1.000 
+			4608.000 18.000 1.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
@@ -2402,7 +2402,7 @@ type={
 		name="mount_fuji"
 		hidden_on_start=no
 		position={
-			4967.000 -0.500 1240.000 
+			4608.000 -0.500 1240.000 
 		}
 		rotation={
 			0.000 -110.000 0.000 
@@ -2674,7 +2674,7 @@ type={
 		name="forbidden_city"
 		hidden_on_start=no
 		position={
-			4641.000 -0.020 1321.000 
+			4608.000 -0.020 1321.000 
 		}
 		rotation={
 			0.000 -30.000 0.000 
@@ -2690,7 +2690,7 @@ type={
 		name="himeji_castle"
 		hidden_on_start=no
 		position={
-			4908.200 -0.300 1234.400 
+			4608.200 -0.300 1234.400 
 		}
 		rotation={
 			0.000 -25.000 0.000 
