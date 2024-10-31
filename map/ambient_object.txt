@@ -299,7 +299,7 @@ type={
 		name="Seagulls_zansibar"
 		hidden_on_start=no
 		position={
-			4747.000 11.000 799.000 
+			4608.000 11.000 799.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -703,7 +703,7 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4729.000 0.100 1542.000 
+			4608.000 0.100 1542.000 
 		}
 		rotation={
 			0.000 -40.000 0.000 
