@@ -1,5 +1,5 @@
-width = 4608
-height = 3712
+width = 4352
+height = 3840
 
 max_provinces = 5000
 sea_starts = {
