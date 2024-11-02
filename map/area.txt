@@ -226,13 +226,13 @@ Davia = {
 Tchecko = { 
 	3 4 6
 }
-Xi'yàrä = { 
+xiyara = { 
 	344
 }
 Klakaxi = { 
 	345 346 347 348 349
 }
-klakaùr = { 
+klakaur = { 
 	378 379 380 381 382
 }
 Mayanna = { 

@@ -336,11 +336,11 @@ def rebuild_continent_file(dataframe, last_province, args):
     with open('map/definition.csv', 'r', encoding='UTF-8') as definition:
         for line in definition.readlines():
             line_arr = line.split(";")
-            if not line_arr[0].isnumeric():
+            if not line_arr[0].isnumeric() or int(line_arr[0]) >= helper_data.FIRST_TEMP_WASTELAND:
                 continue
             else:
                 provID = int(line_arr[0])
-                if not dataframe.at[provID-1, 'type'] == "Land":
+                if not dataframe.at[provID-1, 'type'] == "Land" and not dataframe.at[provID-1, 'type'] == "Wasteland":
                     continue
                 if args.verbose and provID % 50 == 0:
                     print_verbose(args.verbose, "Processing province no. " + str(provID) + "...")
