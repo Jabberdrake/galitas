@@ -1031,32 +1031,47 @@ province;red;green;blue;x;x
 1030;252;168;106;Perateddo;x
 1031;174;37;79;Mattajachedda;x
 1032;64;30;6;Padjanta;x
-4971;179;158;158;Parmaletto;x
-4972;87;83;83;KratianPeninsula;x
-4973;107;104;104;EmmariaEast;x
-4974;82;79;79;EmmariaNorth;x
-4975;117;113;113;CentralFarNorthEast;x
-4976;102;93;93;CentralWesthalfNE;x
-4977;102;89;89;CentralFarNorthCenter;x
-4978;112;106;106;CentralFarNorthWest;x
-4979;77;70;70;CentralWesthalfNW;x
-4980;61;55;55;CentralWesthalfSW;x
-4981;117;114;114;CentralWesthalfSE;x
-4982;97;97;97;KaropanShoreWest;x
-4983;163;144;144;KaropanShoreEast;x
-4984;56;54;54;CentralSouthWest;x
-4985;133;117;117;CentralSouthCenter;x
-4986;82;75;75;CentralSouthEast;x
-4987;71;68;68;NE;x
-4988;41;37;37;SE;x
-4989;21;26;66;KaropanSeaNorth;x
-4990;46;60;148;KaropanSeaSouth;x
-4991;23;28;66;KratianSea;x
-4992;44;52;112;NorthernLakes;x
-4993;40;50;107;SouthernLakes;x
-4994;66;76;138;EasternLakes;x
-4995;12;16;41;WesternOceanNorth;x
-4996;6;8;20;WesternOceanSouth;x
-4997;8;11;33;EasternOceanWest;x
-4998;12;21;77;EasternOceanEast;x
-4999;49;58;122;EasternOceanSouth;x
+4956;21;12;177;Twilight Approach;x
+4957;11;15;30;Southern Sea of Storms;x
+4958;61;85;141;Ocean's Edge;x
+4959;49;33;122;Rough Sea;x
+4960;49;79;122;Far Tanic Sea;x
+4961;79;79;122;Eastern Tanic Sea;x
+4962;59;59;122;Western Tanic Sea;x
+4963;69;58;122;Dzashic Sea;x
+4964;16;18;20;Sea of the Lost;x
+4965;122;117;117;Eastern Armalät;x
+4966;155;117;117;Western Shaloma;x
+4967;144;117;117;Eastern Shaloma;x
+4968;14;16;41;Central Western Ocean;x
+4969;55;25;121;Sea of Savantor;x
+4970;10;15;30;Northern Sea of Storms;x
+4971;179;158;158;Stegosaurus;x
+4972;87;83;83;Naxish Mountains;x
+4973;107;104;104;Emmaria;x
+4974;82;79;79;Mantagoreia;x
+4975;117;113;113;The Neck;x
+4976;102;93;93;Central Galitas;x
+4977;102;89;89;Sadayaan;x
+4978;112;106;106;Far Vocoseche;x
+4979;77;70;70;The Rose Mountains;x
+4980;61;55;55;Northern Yutia;x
+4981;117;114;114;Southern Yutia;x
+4982;97;97;97;The Great Isles;x
+4983;163;144;144;Laxaalian Peaks;x
+4984;56;54;54;Klakateban Shield;x
+4985;133;117;117;Western Armalät;x
+4986;82;75;75;Beyond-the-Katich;x
+4987;71;68;68;Lands of Twilight;x
+4988;41;37;37;New Vocoseche;x
+4989;21;26;66;Sea of Parmaletto;x
+4990;46;60;148;Sea of Vocoseche;x
+4991;23;28;66;Emmarian Swamps;x
+4992;44;52;112;Sea of Takumakken;x
+4993;40;50;107;Southern Lakes;x
+4994;66;76;138;Eastern Lakes;x
+4995;12;16;41;Northern Western Ocean;x
+4996;6;8;20;Southern Western Ocean;x
+4997;8;11;33;Sunblushed Sea;x
+4998;12;21;77;Coast of Emmaria;x
+4999;49;58;122;Sea of Armalät;x

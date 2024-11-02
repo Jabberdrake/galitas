@@ -362,8 +362,9 @@ draconic = {
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
 			"Émannujè salé" "Assnallè salé" "Massèla salé"
-		}	
-		travnaantine = {
+		}
+	}	
+	travnaantine = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
 			"Alihe" "Oheppe" "Akaline"
@@ -821,7 +822,7 @@ dukit = {
 }
 
 lahamic = {
-	beylami= {
+	beylami = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 MaleName4 MaleName5 MaleName6 MaleName7 MaleName8
 			"Artorinn" "Mariénn" "Tigrann" "Alforinn" "Aciras" "Nivros" "Iros" "Thalinn"

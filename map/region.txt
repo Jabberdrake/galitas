@@ -13,7 +13,7 @@ random_new_world_region = {
 
 galitas_water_region = {
 	areas = {
-		galitas_land_area
+		galitas_impassable_area
 	}
 }
 
@@ -37,7 +37,6 @@ massaran_region = {
 galitas_land_region = {
 	areas = {
 		galitas_land_area
-		galitas_impassable_area
 	}
 }
 
