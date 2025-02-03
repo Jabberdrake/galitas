@@ -1,4 +1,4 @@
-# 868 - Florian cut
+# 868 - Florian Cut
 
 discovered_by = western
 discovered_by = eastern

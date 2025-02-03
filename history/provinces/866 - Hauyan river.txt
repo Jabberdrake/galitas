@@ -1,4 +1,4 @@
-# 866 - Hauyan river
+# 866 - Hauyan River
 
 discovered_by = western
 discovered_by = eastern

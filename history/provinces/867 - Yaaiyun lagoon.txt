@@ -1,4 +1,4 @@
-# 867 - Yaaiyun lagoon
+# 867 - Yaaiyun Lagoon
 
 discovered_by = western
 discovered_by = eastern

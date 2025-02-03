@@ -1,4 +1,4 @@
-# 869 - Xulan lagoon
+# 869 - Xulan Lagoon
 
 discovered_by = western
 discovered_by = eastern

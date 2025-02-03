@@ -1,4 +1,4 @@
-# 865 - Xouyar inlet
+# 865 - Xouyar Inlet
 
 discovered_by = western
 discovered_by = eastern

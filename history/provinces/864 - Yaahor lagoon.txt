@@ -1,4 +1,4 @@
-# 864 - Yaahor lagoon
+# 864 - Yaahor Lagoon
 
 discovered_by = western
 discovered_by = eastern

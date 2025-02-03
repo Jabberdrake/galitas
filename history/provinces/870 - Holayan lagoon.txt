@@ -1,4 +1,4 @@
-# 870 - Holayan lagoon
+# 870 - Holayan Lagoon
 
 discovered_by = western
 discovered_by = eastern
