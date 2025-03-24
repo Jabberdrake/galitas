@@ -917,15 +917,15 @@ delta = {
 	laxaali = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
-			"Alihe" "Oheppe" "Akaline"
+			"Payun" "Peuhuamun" "Xoxhalun" "Hoxuyum" "Hoaluyun"
 		}
 		female_names = {
 			FemaleName1 FemaleName2 FemaleName3
-			"Rahalio" "Komino" "Boheddo"
+			"Peyuxe" "Paluyoor" "Xamoyxe" "Oyolayooxe"
 		}
 		dynasty_names = {
 			DynastyName1 DynastyName2 DynastyName3
-			"Halino" "Beheka" "Mayedda"
+			"Polaxuyuolayam" "Huolaxuoyaman" "Payamanuxam"
 		}	
 	}
 }

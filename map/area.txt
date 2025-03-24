@@ -56,13 +56,13 @@ soje = {
 	133 134 135
 }
 gharsha = { 
-	136 137 138 139
+	136 137 138 139 1031
 }
 sorognava = { 
-	140 141 142 143
+	140 141 142 143 1028
 }
 jejkna = { 
-	144 145 146 147
+	144 145 146 147 1027
 }
 marn = { 
 	148 149 150 151
@@ -755,6 +755,64 @@ Outer-Dolissa = {
 Inner-Dolissa = {
 	957 958 959
 }
+Fivian-marches = {
+	960 961 962
+}
+capital-fivettche = {
+	963 964 965 966
+}
+North-fivia = {
+	967 968 969 970
+}
+Karayanmul = {
+	971 972 973 974 975
+}
+Outer-Fivia = {
+	976 977 978 979
+}
+Meddietche = {
+	980 981 982 983
+}
+Lower-poselle = {
+	984 985 986 987
+}
+Middle-poselle = {
+	988 989 990 991
+}
+Upper-poselle = {
+	992 993 994 995
+}
+Pikoochin-bay = {
+	996 997 998 999
+}
+Perokian-cape = {
+	1000 1001 1002 1003
+}
+Perokian-rivierra = {
+	1004 1005 1006
+}
+fivollan-piedmont = {
+	1008 1009
+}
+Roloan-counties = {
+	1010 1011 1012 1013 1014
+}
+Massarokian-marches = {
+	1015 1016 1017 1018
+}
+High-beschette = {
+	1019 1020 1021
+}
+low-beschette = {
+	1022 1023 1024
+}
+the-coins = {
+	1032 1030 1029
+}
+Perokian-plateau = {
+	1007 1025 1026 
+}
+
 ########################################
 # Base Game							   #
 ########################################
