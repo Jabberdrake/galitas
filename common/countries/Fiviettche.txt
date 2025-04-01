@@ -1,0 +1,36 @@
+#Rebels
+
+graphical_culture = westerngfx
+
+color = { 186  0  52 }
+
+# Used for client states
+historical_idea_groups = {	
+	administrative_ideas
+	quantity_ideas
+	defensive_ideas	
+	humanist_ideas
+	trade_ideas
+	quality_ideas
+	economic_ideas	
+	maritime_ideas
+}
+	
+monarch_names = {
+	"Polaxuyuolayam #0" = 10
+	"Huolaxuoyaman #0" = 10
+	"Payamanuxam #0" = 10
+	"Laooyuorpelam #0" = 10
+	"Oyolayooxe #0" = 10
+	"Paluyoor #0" = 10
+	"Hendrik #0" = 10
+	"Hoaluyun #0" = 10	
+	"Xoxhalun #0" = 10	
+	"Xamoyxe #0" = 10	
+	
+}
+
+leader_names = {
+	Peuhuamun Xoxhalun Hoxuyum Hoaluyun
+	Payun Peyuxe Paluyoor Xamoyxe Oyolayooxe
+}
