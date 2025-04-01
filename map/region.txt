@@ -19,7 +19,7 @@ galitas_water_region = {
 
 gilded_coast_region = {
 	areas = {
-		poliettjo delnaghda soje gharsha sorognava jejkna marn rastago
+		poliettjo delnaghda soje gharsha sorognava jejkna marn rastago upper_mirma mirmani_heartland karopan_mirma the-coins Eikaloletto
 	}
 }
 massaran_region = {
@@ -27,8 +27,26 @@ massaran_region = {
 		Saltbreach White-Massaran Puni Saya Kabarra Markatta Mesarra Mayanna
 	}
 }
-
-
+Lesser_spine_region = {
+	areas = {
+		closer_tchutcha marlatta tchunatcha motchagocha gurchatri dotchitrun thutcharanna Yoyann-reef-belts Laxalii-midlands Isle-of-flowers Holayan-coast
+	}
+}
+Inner_Katiichi_Region = {
+	areas = {
+		tchott_kathi milostranhorn three_leagues goatstithings leja tuka lesser_tchutcha katiichi hidden_river further_tchutcha oom's_end
+	}
+}
+Travnaan_Region = {
+	areas = {
+		kejalostra ghavjann mijur Gajva toshvann high_garja garjajan_banks orjann sachi
+	}
+}
+Oom_Region = {
+	areas = {
+		Lower-Oom Sachin-Corridor Misty-Slope dragon's_crossing Outer-Kewenii-plateau Travnaan-Headwaters Low-Oomish-Basin High-Oomish-Basin roghdhaj
+	}
+}
 ########################################
 # SEA REGIONS                          #
 ########################################
