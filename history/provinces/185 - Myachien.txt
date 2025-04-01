@@ -1,8 +1,8 @@
 # 185 - Myachien
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U46
+controller = U46
+add_core = U46
 
 culture = highmiri
 religion = catholic

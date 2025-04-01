@@ -1,8 +1,8 @@
 # 1007 - Violo
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U48
+controller = U48
+add_core = U48
 
 culture = fivollii
 religion = communal_occulist

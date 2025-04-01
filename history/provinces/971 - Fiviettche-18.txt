@@ -1,8 +1,8 @@
 # 971 - Fiviettche-18
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U47
+controller = U47
+add_core = U47
 
 culture = kuruli
 religion = communal_occulist

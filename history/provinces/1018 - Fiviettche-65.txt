@@ -1,8 +1,8 @@
 # 1018 - Fiviettche-65
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U47
+controller = U47
+add_core = U47
 
 culture = fivlii
 religion = communal_occulist

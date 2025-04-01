@@ -1,8 +1,8 @@
 # 178 - Shutun
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U46
+controller = U46
+add_core = U46
 
 culture = lowmiri
 religion = catholic
