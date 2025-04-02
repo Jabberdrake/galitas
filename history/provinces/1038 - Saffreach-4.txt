@@ -1,10 +1,10 @@
-# 954 - Fiviettche-1
+# 1038 - Saffreach-4
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = drosvagan
+culture = zakarulii
 religion = communal_occulist
 capital = ""
 

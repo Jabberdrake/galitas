@@ -1,10 +1,10 @@
-# 959 - Ebtche
+# 954 - Ljetta
 
-owner = U49
-controller = U49
-add_core = U49
+owner = U50
+controller = U50
+add_core = U50
 
-culture = dotchii
+culture = drosvagan
 religion = communal_occulist
 capital = ""
 

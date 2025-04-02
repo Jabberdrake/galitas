@@ -1,8 +1,8 @@
-# 959 - Ebtche
+# 1035 - Cordessi
 
-owner = U49
-controller = U49
-add_core = U49
+owner = nan
+controller = nan
+add_core = nan
 
 culture = dotchii
 religion = communal_occulist

@@ -1,10 +1,10 @@
-# 959 - Ebtche
+# 1039 - Arumir
 
-owner = U49
-controller = U49
-add_core = U49
+owner = nan
+controller = nan
+add_core = nan
 
-culture = dotchii
+culture = zakarulii
 religion = communal_occulist
 capital = ""
 
