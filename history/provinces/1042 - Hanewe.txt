@@ -1,10 +1,10 @@
-# 1032 - Padjanta
+# 1042 - Hanewe
 
 owner = nan
 controller = nan
 add_core = nan
 
-culture = dotchii
+culture = highmiri
 religion = communal_occulist
 capital = ""
 

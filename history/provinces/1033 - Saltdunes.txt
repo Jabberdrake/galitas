@@ -1,10 +1,10 @@
-# 954 - Fiviettche-1
+# 1033 - Saltdunes
 
 owner = U50
 controller = U50
 add_core = U50
 
-culture = drosvagan
+culture = dotchii
 religion = communal_occulist
 capital = ""
 
