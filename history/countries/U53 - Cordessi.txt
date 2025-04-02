@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = kingdom
-primary_culture = parmakaropino
+primary_culture = Dotchii
 religion = communal_occulist
 technology_group = western
 capital = 957 # Kalehabbira

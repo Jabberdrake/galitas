@@ -1,18 +1,18 @@
 # 1039 - Arumir
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U51
+controller = U51
+add_core = U51
 
 culture = zakarulii
-religion = communal_occulist
+religion = Cult_of_the_mahelwe
 capital = ""
 
 hre = no
 
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 7
+base_production = 3
+base_manpower = 7
 
 trade_goods = nan
 

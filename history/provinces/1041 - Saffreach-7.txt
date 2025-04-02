@@ -1,11 +1,11 @@
 # 1041 - Saffreach-7
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U51
+controller = U51
+add_core = U51
 
 culture = zakarulii
-religion = communal_occulist
+religion = Cult_of_the_mahelwe
 capital = ""
 
 hre = no

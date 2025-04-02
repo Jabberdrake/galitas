@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = kingdom
-primary_culture = parmakaropino
-religion = communal_occulist
+primary_culture = zakarulii
+religion = Cult_of_the_mahelwe
 technology_group = western
-capital = 957 # Kalehabbira
+capital = 1039 # Arumir
 national_focus = DIP
 
 change_estate_land_share = {

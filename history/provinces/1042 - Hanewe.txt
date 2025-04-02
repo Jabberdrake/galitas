@@ -1,18 +1,18 @@
 # 1042 - Hanewe
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U52
+controller = U52
+add_core = U52
 
 culture = highmiri
-religion = communal_occulist
+religion = Cult_of_the_mahelwe
 capital = ""
 
 hre = no
 
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 5
+base_manpower = 6
 
 trade_goods = nan
 

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = kingdom
 primary_culture = Low_Miri
-religion = reformed_goatmother
+religion = Cult_of_the_mahelwe
 technology_group = western
 capital = 180 # Mihoh
 national_focus = DIP

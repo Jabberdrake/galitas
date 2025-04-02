@@ -1,8 +1,8 @@
 # 1035 - Cordessi
 
-owner = nan
-controller = nan
-add_core = nan
+owner = U53
+controller = U53
+add_core = U53
 
 culture = dotchii
 religion = communal_occulist
@@ -10,9 +10,9 @@ capital = ""
 
 hre = no
 
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 6
+base_manpower = 3
 
 trade_goods = nan
 
