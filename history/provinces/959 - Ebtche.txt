@@ -1,8 +1,8 @@
 # 959 - Ebtche
 
-owner = U47
-controller = U47
-add_core = U47
+owner = U49
+controller = U49
+add_core = U49
 
 culture = dotchii
 religion = communal_occulist

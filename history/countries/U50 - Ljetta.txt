@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = kingdom
+primary_culture = drosvagan
+religion = communal_occulist
+technology_group = western
+capital = 954 # Ljetta
+national_focus = DIP
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = -5
+}
+
