@@ -47,6 +47,11 @@ Oom_Region = {
 		Lower-Oom Sachin-Corridor Misty-Slope dragon's_crossing Outer-Kewenii-plateau Travnaan-Headwaters Low-Oomish-Basin High-Oomish-Basin roghdhaj
 	}
 }
+Saffreach_Region = {
+	areas = {
+		Cordessi Zarakul Merikul
+	}
+}
 ########################################
 # SEA REGIONS                          #
 ########################################

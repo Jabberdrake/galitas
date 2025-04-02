@@ -1067,8 +1067,8 @@ korvish = {
 		}	
 	}
 }
-Amazilli = {
-	Zakarulii = {
+amazilli = {
+	zakarulii = {
 		male_names = {
 			MaleName1 MaleName2 MaleName3 
 			"Alihe" "Oheppe" "Akaline"
